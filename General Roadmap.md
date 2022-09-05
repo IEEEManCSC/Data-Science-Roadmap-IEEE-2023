@@ -1,6 +1,6 @@
 <h1 align="center">General Roadmap</h1> 
 
-## Here you have the full roadmap as headlines and each one has some suggested courses.. <br>
+## Here you have the full roadmap divided into three levels as headlines and each one has some suggested courses.. <br>
 
 # ▶ What Is Data Science?
 
@@ -26,7 +26,7 @@
 
 #### :five: : Don’t chase certifications.
 #### :six: : Don’t rush for ML without having a good background in programming & maths.
-#### :seven:  : At the end of each stage apply all what you've learned on some projects.
+#### :seven:  : At the end of every level apply all what you've learned on some projects.
 
 
 # So let’s start our journey with preparing your workspace 🚀
