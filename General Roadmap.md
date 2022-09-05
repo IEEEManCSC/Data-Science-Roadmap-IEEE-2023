@@ -176,4 +176,3 @@ Note: it's already mentioned in the above probability course <br>
 
 
 
-## To be added soon: specialized content in CV,NLP,GANS.
