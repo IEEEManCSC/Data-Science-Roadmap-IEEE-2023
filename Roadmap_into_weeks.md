@@ -1,4 +1,5 @@
-# Roadmap into weeks 
+<h1 align="center">Roadmap into weeks </h1> 
+
   
  ## It's the same roadmap, but divided into weeks with an average studying rate of 6 hours per week. 
   
@@ -7,9 +8,9 @@
  ### 2. Stage 2: learn visualizing, Tableau, SQL and web scraping. 
  ### 3. Stage 3: dive into ML and Math 
  ### 4. Stage 4: where we learn DL, CV and NLP. 
-  
-  
+ 
  <br> 
+ 
  > You should make a task after each week, and some projects after each stage 
   
  ## Stage 1 
