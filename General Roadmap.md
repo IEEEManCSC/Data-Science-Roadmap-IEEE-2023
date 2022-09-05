@@ -8,7 +8,7 @@
 
 #### [For more information about Data science :movie_camera:](https://youtu.be/X3paOmcrTjQ) 
 
-#### ⚠️ I have a knot in mathematics, Do I enter this field ?    [  Check this]()
+#### ⚠️ I have a knot in mathematics, Do I enter this field ?    [  Check this](https://docs.google.com/document/d/1ljekCa5z9mkLHLN-itCseFff5SZeYdvVkBNzVVUyHM8/edit?usp=drivesdk)
 
 #### :bulb: If You Don’t Know What’s the Difference Between A Data Scientist, Data Analysts, Data Engineer, ML Engineer ? [  Watch this](https://youtu.be/SLszG6sSInY) 
 
