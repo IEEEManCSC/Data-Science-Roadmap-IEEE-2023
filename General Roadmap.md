@@ -13,7 +13,7 @@
 #### :bulb: If You Don’t Know What’s the Difference Between A Data Scientist, Data Analysts, Data Engineer, ML Engineer ? [  Watch this](https://youtu.be/SLszG6sSInY) 
 
 
-#### 📌 For Data Camp courses, github student pack gives 3 free months.</i>[  How to get it](https://youtu.be/owO75M1Xv30) 
+#### 📌 For Data Camp courses, github student pack gives 3 free months.</i>[  How to get it](https://youtu.be/owO75M1Xv30) || [Register Here](https://education.github.com/pack)
 
 ## ▶ Before starting you should know these tips :
 #### :one:	: **If you need to climb stairs, you must tread the first stair.**.....So the “Computer scince fundmintls” are the first stair in CS stairs, It will help you to understand how the computer works, how to deal with data, how to deal with code and many other things you should know to go freely on your career. Whatever the CS technology you choose to learn you need these fundamentals.<br>Many people who decided to start directly learn one of CS technology suffering from a Lack of some skills and information and they wasting their times to go back and learn what they need and the process is repeated continuously.<br>
