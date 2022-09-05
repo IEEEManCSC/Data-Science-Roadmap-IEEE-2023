@@ -26,7 +26,7 @@
 
 #### :five: : Don’t chase certifications.
 #### :six: : Don’t rush for ML without having a good background in programming & maths.
-#### :seven:  : At the end of every level apply all what you've learned on some projects.
+#### :seven:  : At the end of each stage apply all what you've learned on some projects.
 
 
 # So let’s start our journey with preparing your workspace 🚀
