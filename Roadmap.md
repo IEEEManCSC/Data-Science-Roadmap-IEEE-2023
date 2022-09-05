@@ -19,7 +19,7 @@
 ####  :three:	: Choose the courses that suit you ... two courses are enough, and sometimes one with a focus on it, and it is preferable to read pdf  from those below in parallel.
 #### :four: : Don’t chase certifications.
 #### :five: : Don’t rush for ML without having a good background in programming & maths.
-#### :six:  : At the end of every level apply all what you've learned on a project.
+#### :six:  : At the end of every level apply all what you've learned on some projects.
 
 
 # So let’s start our journey with preparing your workspace 🚀
