@@ -1,4 +1,5 @@
 <h1 align="center">General Roadmap</h1> 
+
 ## Here you have the full roadmap as headlines and each one has some suggested courses.. <br>
 
 # ▶ What Is Data Science?
