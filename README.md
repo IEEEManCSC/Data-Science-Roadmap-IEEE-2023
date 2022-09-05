@@ -25,7 +25,7 @@
 
 # ▶ How to be a member of CAT Reloaded?
 
-#### 📌 Almost every year we host a recruitment [Event]() in Mansoura University to attract all of the interested students in Computer Science in general, categorizing them in Circles meant for different fields.
+#### 📌 Almost every year we host a recruitment [Event](https://facebook.com/events/s/hello-world-60/608346587259566/) in Mansoura University to attract all of the interested students in Computer Science in general, categorizing them in Circles meant for different fields.
 
 ------------
 
