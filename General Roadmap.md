@@ -1,3 +1,6 @@
+<h1 align="center">General Roadmap</h1> 
+## Here you have the full roadmap as headlines and each one has some suggested courses.. <br>
+
 # ▶ What Is Data Science?
 
 #### Data science is the field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data. Data science practitioners apply machine learning algorithms to numbers, text, images, video, audio, and more to produce artificial intelligence (AI) systems to perform tasks that ordinarily require human intelligence. In turn, these systems generate insights which analysts and business users can translate into tangible business value......
@@ -14,12 +17,15 @@
 ## ▶ Before starting you should know these tips :
 #### :one:	: **If you need to climb stairs, you must tread the first stair.**.....So the “Computer scince fundmintls” are the first stair in CS stairs, It will help you to understand how the computer works, how to deal with data, how to deal with code and many other things you should know to go freely on your career. Whatever the CS technology you choose to learn you need these fundamentals.<br>Many people who decided to start directly learn one of CS technology suffering from a Lack of some skills and information and they wasting their times to go back and learn what they need and the process is repeated continuously.<br>
 
-#### :two:	: Notice that Any roadmap is not sacred, you may find some courses better than the suggested ones from your perspective and that's completely okay, however, you should go through all the topics.<br>
+#### :two:	: Here you have the main topics and for each one there are some suggested courses that you should take one or more of them..<br>
 
-####  :three:	: Choose the courses that suit you ... two courses are enough, and sometimes one with a focus on it, and it is preferable to read pdf  from those below in parallel.
-#### :four: : Don’t chase certifications.
-#### :five: : Don’t rush for ML without having a good background in programming & maths.
-#### :six:  : At the end of every level apply all what you've learned on some projects.
+#### :three:	:Notice that any roadmap is not sacred, you may find some courses better than the suggested ones from your perspective and that's completely okay, so Choose the courses that suit you but you should go through all the topics.<br>
+
+####  :four:	: To get a better result, it is preferable to read a pdf or a book from those below in parallel with the course you choose..
+
+#### :five: : Don’t chase certifications.
+#### :six: : Don’t rush for ML without having a good background in programming & maths.
+#### :seven:  : At the end of every level apply all what you've learned on some projects.
 
 
 # So let’s start our journey with preparing your workspace 🚀
