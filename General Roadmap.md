@@ -34,7 +34,7 @@
 </summary>
 <br>
   
-[**Anaconda**](https://www.anaconda.com/products/distribution): It’s a tool kit that fulfills all your necessities in writing and running code. From Powershell prompt to Jupyter Notebook and PyCharm, even R Studio (if interested to try R).
+[<h2>**Anaconda**</h2>](https://www.anaconda.com/products/distribution)Anaconda is a tool kit that fulfills all your necessities in writing and running code. From Powershell prompt to Jupyter Notebook and PyCharm, even R Studio (if interested to try R).
   * [A guide to install anaconda and run Jupyter Notebook.](https://www.youtube.com/watch?v=syijLJ3oQzU)
   * [A guide to deal with Jupyter Notebook.](https://www.youtube.com/watch?v=0nrjHslIvT4)
 
@@ -42,20 +42,25 @@
 
 
 
-[**Google Colab**](https://colab.research.google.com/notebooks/intro.ipynb): It’s like a Jupyter Notebook but in the cloud. You don’t need to install anything locally. All the important libraries are already installed. For example NumPy, Pandas, Matplotlib, and Sci-kit Learn <br />
+[<h2>**Google Colab**</h2>](https://colab.research.google.com/notebooks/intro.ipynb)Google Colab is like a Jupyter Notebook but in the cloud. You don’t need to install anything locally. All the important libraries are already installed. For example NumPy, Pandas, Matplotlib, and Sci-kit Learn <br />
 
-[PyCharm](https://www.jetbrains.com/pycharm/): PyCharm is another excellent IDE that enables you to integrate with libraries such as NumPy and Matplotlib, allowing you to work with array viewers and interactive plots. 
+[<h2>**PyCharm**</h2>](https://www.jetbrains.com/pycharm/)PyCharm is another excellent IDE that enables you to integrate with libraries such as NumPy and Matplotlib, allowing you to work with array viewers and interactive plots. 
  * [JetBrains student license](https://www.youtube.com/watch?v=QPESX-VBnEU) can let you freely install the paid porfissional version of Pycharm for educational purposes only.
  * [A Guide to install and use Pycharm](https://www.youtube.com/watch?v=NJXwP7o5TTM)
  * [Running Jupyter Notebook from Pycharm](https://www.youtube.com/watch?v=yr1M1H-GLR0)<br />
   
-[VScode](https://code.visualstudio.com/download):Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop.It has a rich ecosystem of extensions for other languages and runtimes (such as C++, C#, Java, Python, PHP, Go, .NET). You can also run Jupyter Notebook from it.
+[<h2>**VScode**</h2>](https://code.visualstudio.com/download)Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop.It has a rich ecosystem of extensions for other languages and runtimes (such as C++, C#, Java, Python, PHP, Go, .NET). You can also run Jupyter Notebook from it.
  * [A guide to install and use VScode](https://www.youtube.com/watch?v=kE_FzZk3jGo)
- * [A guide to use Jupyter Notebook from VScode](https://www.youtube.com/watch?v=h1sAzPojKMg) 
-[Atom](https://atom.io/packages/ide-python): A more advanced Python interface, highly recommended by experts. <br />
+ * [Running Jupyter Notebook from VScode](https://www.youtube.com/watch?v=h1sAzPojKMg) 
+
+[<h2>**Atom**</h2>](https://atom.io/packages/ide-python)A more advanced Python interface, highly recommended by experts.
+ * [A guide to install atom with python](https://www.youtube.com/watch?v=Ei-G0fEOu9I)
   
-[Thonny](https://thonny.org/): Thonny is an IDE for teaching and learning programming. Thonny is equipped with a debugger, and supports code completion, and highlights syntax errors.</detals>
-Most learning platforms have integrated code exercises where you don’t need to install anything locally. But to learn it right, you should have an IDE installed on your local machine.<br/> </details>
+[<h2>**Thonny**</h2>](https://thonny.org/)Thonny is an IDE for teaching and learning programming. Thonny is equipped with a debugger, and supports code completion, and highlights syntax errors.</detals>
+Most learning platforms have integrated code exercises where you don’t need to install anything locally. But to learn it right, you should have an IDE installed on your local machine.
+ * [A guide to install Thonny](https://www.youtube.com/watch?v=MT_LJAzvExM)
+
+<br/> </details>
 
 
 ## :beginner: Beginner Level 👇
