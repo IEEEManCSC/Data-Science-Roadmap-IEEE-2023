@@ -1,7 +1,7 @@
 
 <h1 align="center">Data-Science-Roadmap-CAT Reloaded-2022</h1> 
 
-![image](https://user-images.githubusercontent.com/70972406/164584340-dc3ba68a-9b90-4407-8c82-27d2f58464b0.png)
+![New Project (33)](https://user-images.githubusercontent.com/91850794/189073077-fd801055-2b4a-4ba8-beac-a9ba764ddf3b.png)
 
 ------------
 # ▶ What is [CAT Reloaded](https://www.facebook.com/CATReloaded "CAT Reloaded")?
