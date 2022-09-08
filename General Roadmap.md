@@ -63,12 +63,12 @@ come with time - learn enough basics to be able to read code and implement. <br>
 &emsp;&emsp;&emsp;:closed_book: [Pdf](https://drive.google.com/file/d/1xhO5X5iGJeottX2dc2gNejQll0sTBgHz/view?usp=drivesdk)<br>
 
 ### 2. Descriptive Statistics
-&emsp;&emsp;&emsp;:video_camera: [Intro to descriptive statistics From Udacity](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)<br>
-&emsp;&emsp;&emsp;:video_camera: [YouTupe playlist](https://www.youtube.com/playlist?list=PLTNMv857s9WVStKLco6ZBOsfSGXzJ1L0f)<br>
+&emsp;&emsp;&emsp;:video_camera: [Intro to descriptive statistics from Udacity](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)<br>
+&emsp;&emsp;&emsp;:video_camera: [YouTube playlist](https://www.youtube.com/playlist?list=PLTNMv857s9WVStKLco6ZBOsfSGXzJ1L0f)<br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic Course 1](https://youtu.be/NyCqaxLW3p8)<br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic Course 2](https://www.youtube.com/playlist?list=PLu1nnZ4q7vDHfhYtBLjxrAhh5IYX0v4KO)<br>
 &emsp;&emsp;&emsp;:video_camera: [Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)<br>
-&emsp;&emsp;&emsp;:video_camera: [YouTupe playlist Arabic](https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW)<br>
+&emsp;&emsp;&emsp;:video_camera: [YouTube playlist Arabic](https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW)<br>
 &emsp;&emsp;&emsp;:video_camera: [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)++<br>
 &emsp;&emsp;&emsp;:closed_book: [Pdf](https://drive.google.com/file/d/1C4RMwG5HphNAHgYjzif7N_7Eb_w_IDAn/view?usp=sharing)<br>
 &emsp;&emsp;&emsp;:closed_book: [Online statistics education](http://onlinestatbook.com/Online_Statistics_Education.pdf)<br>
@@ -78,14 +78,14 @@ come with time - learn enough basics to be able to read code and implement. <br>
 &emsp;&emsp;&emsp;:video_camera: [Corey playlist-Youtube](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)<br>
 &emsp;&emsp;&emsp;:video_camera: [Playlist-Youtube](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1)<br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/watch?v=3ISW655DemU&list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F)<br>
-&emsp;&emsp;&emsp;:video_camera: [YouTupe](https://www.youtube.com/watch?v=vmEHCJofslg)<br>
+&emsp;&emsp;&emsp;:video_camera: [YouTube](https://www.youtube.com/watch?v=vmEHCJofslg)<br>
 &emsp;&emsp;&emsp;:video_camera: [Google Course(Data Analysis)](https://bit.ly/3pR0480) <br>
 &emsp;&emsp;&emsp;:closed_book: [Kaggle Course](https://www.kaggle.com/learn/pandas)<br>
 &emsp;&emsp;&emsp;:closed_book: [Kaggle Pandas 100 tricks](https://www.kaggle.com/code/shivan118/pandas-100-tricks)<br>
 
 ### 4. Numpy 
 
-&emsp;&emsp;&emsp;:video_camera: [YouTupe](https://www.youtube.com/watch?v=QUT1VHiLmmI)<br>
+&emsp;&emsp;&emsp;:video_camera: [YouTube](https://www.youtube.com/watch?v=QUT1VHiLmmI)<br>
 &emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science)<br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/watch?v=5-5CrLmf2vk&list=PLIA_seGogbkGDYq-dnVCsELEIq_7HK7Ca)<br>
 &emsp;&emsp;&emsp;:closed_book: [Tutorial](http://cs231n.github.io/python-numpy-tutorial/)<br>
@@ -97,12 +97,10 @@ come with time - learn enough basics to be able to read code and implement. <br>
 &emsp;&emsp;&emsp;:closed_book: [Notebook1](https://www.kaggle.com/bandiatindra/telecom-churn-prediction)<br/>
 &emsp;&emsp;&emsp;:closed_book: [Notebook2](https://drive.google.com/drive/folders/1OQAEQ8rC4j6oBP7AyDU4bKpPr8sSStJI?fbclid=IwAR2dSrbyoZLM-Wm57yEYy8L8PmpPV9hqXdkNf-pURJC5C5xCz7UJB4YpJ7M)<br/>
 &emsp;&emsp;&emsp;:closed_book: [Notebook3](https://www.kaggle.com/ashishg21/data-cleaning-and-some-analysis-shoe-prices)<br>
-&emsp;&emsp;&emsp;:closed_book: [Kaggle Data cleaning](https://www.kaggle.com/learn/data-cleaning)<br>
 &emsp;&emsp;&emsp;:video_camera: [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python)<br/>
 &emsp;&emsp;&emsp;:video_camera: [Arabic video](https://www.youtube.com/watch?v=Mrd56i_U6cM) but not enough<br/>
 &emsp;&emsp;&emsp;:closed_book: [Cleaning Data in Python](https://learn.datacamp.com/courses/cleaning-data-in-python)<br>
 &emsp;&emsp;&emsp;:closed_book: [Blog](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)<br>
-&emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/learn/data-cleaning)<br>
 &emsp;&emsp;&emsp;:video_camera: [Playlist](https://www.youtube.com/watch?v=hl-TGI4550M&list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)<br>
 &emsp;&emsp;&emsp;:closed_book: [Pandas 100 tricks](https://www.kaggle.com/code/shivan118/pandas-100-tricks)Note: it's already mentioned in pandas above<br>
 
