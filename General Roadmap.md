@@ -100,7 +100,6 @@ come with time - learn enough basics to be able to read code and implement. <br>
 &emsp;&emsp;&emsp;:closed_book: [Kaggle Data cleaning](https://www.kaggle.com/learn/data-cleaning)<br>
 &emsp;&emsp;&emsp;:video_camera: [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python)<br/>
 &emsp;&emsp;&emsp;:video_camera: [Arabic video](https://www.youtube.com/watch?v=Mrd56i_U6cM) but not enough<br/>
-&emsp;&emsp;&emsp;:closed_book: [Blog](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)<br>
 &emsp;&emsp;&emsp;:video_camera: [Playlist](https://www.youtube.com/watch?v=hl-TGI4550M&list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)<br>
 &emsp;&emsp;&emsp;:closed_book: [Pandas 100 tricks](https://www.kaggle.com/code/shivan118/pandas-100-tricks)Note: it's already mentioned in pandas above<br>
 
