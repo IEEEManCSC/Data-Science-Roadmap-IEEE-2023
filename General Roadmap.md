@@ -134,7 +134,7 @@ come with time - learn enough basics to be able to read code and implement. <br>
 &emsp;&emsp;&emsp;:closed_book: [Intermediate Data Visualization with Seaborn](https://learn.datacamp.com/courses/intermediate-data-visualization-with-seaborn)<br>
 &emsp;&emsp;&emsp;:closed_book: [Playlist-Youtube](https://www.youtube.com/watch?v=z7ZINBk8EUk&list=PL998lXKj66MpNd0_XkEXwzTGPxY2jYM2d)<br>
 &emsp;&emsp;&emsp;:video_camera: [Introduction to Data Visualization with Matplotlib](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib?fbclid=IwAR1OrJSdZ2LVD_c1o3d-_1I7Nhq8OZ3pzTu4010E_XWEmMc0KYsTosz8CIU) or<br>
-&emsp;&emsp;&emsp;:video_camera: [ Corey Schafer - Playlist on Youtube](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) or<br>
+&emsp;&emsp;&emsp;:video_camera: [ Corey Schafer - Playlist on Youtube](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)<br>
 &emsp;&emsp;&emsp;:video_camera: [sentdex - Playlist on YouTube](https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF)<br>
 &emsp;&emsp;&emsp;:closed_book: [Kaggle to Data Visualization with Seaborn](https://www.kaggle.com/learn/data-visualization)<br>
 &emsp;&emsp;&emsp;:video_camera: [Playlist-Youtube](https://www.youtube.com/watch?v=z7ZINBk8EUk&list=PL998lXKj66MpNd0_XkEXwzTGPxY2jYM2d)<br>
