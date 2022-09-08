@@ -16,17 +16,17 @@
  ## Stage 1 
  ### Week 1 : 
  [Python (first course in the specialization)](https://www.coursera.org/learn/python?specialization=python) <br>  
- Task 1 : [Notebook link](https://colab.research.google.com/drive/1N_sxUfzFwAEQmqVuOxMfaRGxFuw9DnPm?usp=sharing) <br>  
+ Task 1 : [Notebook link]() <br>  
   
  ### Week 2: 
  [Python (second course in the specialization)]( https://www.coursera.org/learn/python-data?specialization=python) <br>  
- [Descriptive stats](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) till lesson4-variability (included) <br> 
- Task 2 : [Notebook link](https://colab.research.google.com/drive/1JCuKVSZPRKMOG4xzD36Oo0oSHq9628w8?fbclid=IwAR2QiEDl6vzgsERONTARCt2GWgDb-apTwZOjrcJRTOIVMrmT4dfiMj-KyXo) <br>  
+ [Descriptive stats](https://www.youtube.com/watch?v=NyCqaxLW3p8) <br> 
+ Task 2 : [Notebook link]() <br>  
   
  ### Week 3: 
- Finish [Descriptive stats](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) <br> 
- [Google first course](https://www.coursera.org/learn/foundations-data?specialization=google-data-analytics) <br> 
- Task 3 : [Notebook link](https://colab.research.google.com/drive/1tA5Ryyoj1TKyNO2_NoH2M_MB9oNAuTob?usp=sharing) <br>  
+ [Python summary](https://www.youtube.com/watch?v=rfscVS0vtbw) <br> 
+ [Descriptive stats](https://drive.google.com/file/d/1C4RMwG5HphNAHgYjzif7N_7Eb_w_IDAn/view?usp=sharing) <br> 
+ Task 3 : [Notebook link]() <br>  
   
  ### Week 4: 
  [Pandas and Numpy udacity](https://classroom.udacity.com/courses/ud170 ) <br> 
@@ -66,7 +66,7 @@
  ### Week 10: 
  [Intro to DB](https://app.datacamp.com/learn/courses/introduction-to-relational-databases-in-sql) <br> 
  [Intro to SQL](https://app.datacamp.com/learn/courses/introduction-to-sql) <br> 
- Task 10 : [SQL Task](https://docs.google.com/document/d/17i9YNOBgyrKJ8cNAA43zDMcUJ7yj3xwrImcZ-SjoHVY/edit?usp=sharing)
+ Task 10 : [SQL Task]()
  
  ### Week 11: 
  [Intro to web scraping](https://app.datacamp.com/learn/courses/intermediate-importing-data-in-python) <br> 
