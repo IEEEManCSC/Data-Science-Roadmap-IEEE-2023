@@ -123,15 +123,16 @@ come with time - learn enough basics to be able to read code and implement. <br>
 &emsp;&emsp;&emsp;:closed_book: [Matplotlib Course 1](https://www.youtube.com/watch?v=zl5qPnqps8M&list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl&index=2) <br>
 &emsp;&emsp;&emsp;:closed_book: [Matplotlib Course 2](https://www.youtube.com/watch?v=UUy6_ElQXBY&list=PLtPIclEQf-3dJmAj3IsSRwRoLbX-n3J81)<br>
 &emsp;&emsp;&emsp;:closed_book: [Seaborn  Course 1](https://www.youtube.com/watch?v=W-jaYQq1C7Q&list=PLJIOr9Je9wzHT-ptgfelpt2Nyx4VGX_j9)<br>
-&emsp;&emsp;&emsp;:closed_book: [Seaborn  Course 2](https://www.youtube.com/watch?v=vaf4ir8eT38&list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j&index=3)<br>
-&emsp;&emsp;&emsp;:closed_book: [Ask questions(from google specialization)](https://bit.ly/3CLwM01) <br> 
+&emsp;&emsp;&emsp;:closed_book: [Seaborn  Course 2](https://www.youtube.com/watch?v=vaf4ir8eT38&list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j&index=3)<br> 
 &emsp;&emsp;&emsp;:closed_book: [Visualizing intro to seaborn (datacamp)](https://bit.ly/3KprvxE ) <br>
 &emsp;&emsp;&emsp;:closed_book: [Visualizing intro to matplotlib (datacamp)](https://bit.ly/3Cz9E4M ) <br>
-&emsp;&emsp;&emsp;:closed_book: [Visualizing intermediate seaborn (datacamp)](https://bit.ly/3pWPQmu) <br>
-&emsp;&emsp;&emsp;:closed_book: [EDA (datacamp)](https://bit.ly/3KChY6z ) <br>
-&emsp;&emsp;&emsp;:closed_book: [EDA (from google specialization)](https://bit.ly/3CzSrrW ) <br>
 &emsp;&emsp;&emsp;:closed_book: [Kaggle to Data Visualization with Seaborn](https://www.kaggle.com/learn/data-visualization)<br>
-&emsp;&emsp;&emsp;:closed_book: [Intermediate Data Visualization with Seaborn](https://learn.datacamp.com/courses/intermediate-data-visualization-with-seaborn)<br>
+
+
+<br>
+Coninued
+<br>
+
 &emsp;&emsp;&emsp;:closed_book: [Playlist-Youtube](https://www.youtube.com/watch?v=z7ZINBk8EUk&list=PL998lXKj66MpNd0_XkEXwzTGPxY2jYM2d)<br>
 &emsp;&emsp;&emsp;:video_camera: [Introduction to Data Visualization with Matplotlib](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib?fbclid=IwAR1OrJSdZ2LVD_c1o3d-_1I7Nhq8OZ3pzTu4010E_XWEmMc0KYsTosz8CIU) or<br>
 &emsp;&emsp;&emsp;:video_camera: [ Corey Schafer - Playlist on Youtube](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)<br>
@@ -150,23 +151,30 @@ come with time - learn enough basics to be able to read code and implement. <br>
 ## :beginner: Intermediate Level 👇
 
 ### 1. Cleaning
+&emsp;&emsp;&emsp;:closed_book: [>>>>Notebook_Metawea](https://www.kaggle.com/code/nareshbhat/outlier-the-silent-killer) <br>
 
 
+### 2. Visualizations
+&emsp;&emsp;&emsp;:video_camera: [--->Visualizing intermediate seaborn (datacamp)](https://bit.ly/3pWPQmu) <br>
+&emsp;&emsp;&emsp;:video_camera: [--->Intermediate Data Visualization with Seaborn](https://learn.datacamp.com/courses/intermediate-data-visualization-with-seaborn)<br>
 
+### 3. Probability
 
-
-
-
-### 2. EDA
+### 4. EDA
 Note: it's already mentioned in the above probability course <br>
-&emsp;&emsp;&emsp;:closed_book: [How to choose the right chart](https://www.data-to-viz.com/?fbclid=IwAR1dWey6y_7DbHEX6dKdIzlOPfsBhmBbHa0XgDoRWmTHovxfb1QbZCihobk#boxplot)<br>
+&emsp;&emsp;&emsp;:closed_book: [--->Ask questions(from google specialization)](https://bit.ly/3CLwM01) <br>
+&emsp;&emsp;&emsp;:video_camera: [>>>>Course_Metawea EDA (datacamp)](https://bit.ly/3KChY6z ) <br>
+&emsp;&emsp;&emsp;:video_camera: [--->EDA (from google specialization)](https://bit.ly/3CzSrrW ) <br>
+&emsp;&emsp;&emsp;:closed_book: [How to choose the right chart](https://www.data-to-viz.com/?fbclid=IwAR1dWey6y_7DbCoursezlOPfsBhmBbHa0XgDoRWmTHovxfb1QbZCihobk#boxplot)<br>
 &emsp;&emsp;&emsp;:closed_book: [How to ask good questions?](https://towardsdatascience.com/how-to-ask-good-questions-be41b517c1b)<br>
 &emsp;&emsp;&emsp;:video_camera: [DataCamp-EDA in Python](https://learn.datacamp.com/courses/exploratory-data-analysis-in-python) <br>
 &emsp;&emsp;&emsp;:video_camera: [IBM-EDA for Machine Learning](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning) <br>
 &emsp;&emsp;&emsp;:video_camera: [Course2: Intermediate with Seaborn
 ](https://learn.datacamp.com/courses/intermediate-data-visualization-with-seaborn)<br>
 
-### 3. Dashboards
+
+
+### 5. Dashboards & Git
 &emsp;*Tableau*<br>
 &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)<br>
 &emsp;&emsp;&emsp;:video_camera: [docs](https://www.tableau.com/learn/training/20201)<br>
@@ -179,6 +187,13 @@ Note: it's already mentioned in the above probability course <br>
 &emsp;&emsp;&emsp;:video_camera: [Power BI](https://drive.google.com/drive/folders/1gwxJtxsshN0pQHXzLhkl4Syw42Go11-n)<br>
 &emsp;&emsp;&emsp;:video_camera: [Youtube](https://www.youtube.com/watch?v=ykvAWKML9Gk&list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)<br>
 &emsp;&emsp;&emsp;:video_camera: [Fundamentals of Data Visualization with Power BI– edX](https://www.edx.org/professional-certificate/fundamentals-of-data-visualization-with-power-bi?source=aw&awc=6798_1650600645_00901530d2f2bb27713afc834b13839e&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=790615_MLTUT)<br>
+
+
+### 6. SQL
+
+&emsp;&emsp;&emsp;:video_camera: [>>>>Metawea_Youtube_course](https://youtu.be/HXV3zeQKqGY)<br>
+&emsp;&emsp;&emsp;:video_camera: [>>>>Metawea_Arabic_Youtube_course](https://youtu.be/B7evUQGmN6M)<br>
+
 
 
 ## :beginner: Advanced Level 👇
