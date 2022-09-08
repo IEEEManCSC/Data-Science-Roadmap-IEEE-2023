@@ -176,9 +176,9 @@ Note: it's already mentioned in the above probability course <br>
 &emsp;&emsp;&emsp;:video_camera: [Power BI Desktop - Coursera](https://www.coursera.orghttps://powerbi.microsoft.com/en-us/learning//projects/power-bi-desktop)<br>
 &emsp;&emsp;&emsp;:video_camera: [Power BI training](https://powerbi.microsoft.com/en-us/learning/)<br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic - Youtube](https://www.youtube.com/watch?v=ykvAWKML9Gk&list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)<br>
-* [Power BI](https://drive.google.com/drive/folders/1gwxJtxsshN0pQHXzLhkl4Syw42Go11-n)<br>
-* [Youtube](https://www.youtube.com/watch?v=ykvAWKML9Gk&list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)<br>
-* [Fundamentals of Data Visualization with Power BI– edX](https://www.edx.org/professional-certificate/fundamentals-of-data-visualization-with-power-bi?source=aw&awc=6798_1650600645_00901530d2f2bb27713afc834b13839e&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=790615_MLTUT)<br>
+&emsp;&emsp;&emsp;:video_camera: [Power BI](https://drive.google.com/drive/folders/1gwxJtxsshN0pQHXzLhkl4Syw42Go11-n)<br>
+&emsp;&emsp;&emsp;:video_camera: [Youtube](https://www.youtube.com/watch?v=ykvAWKML9Gk&list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)<br>
+&emsp;&emsp;&emsp;:video_camera: [Fundamentals of Data Visualization with Power BI– edX](https://www.edx.org/professional-certificate/fundamentals-of-data-visualization-with-power-bi?source=aw&awc=6798_1650600645_00901530d2f2bb27713afc834b13839e&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=790615_MLTUT)<br>
 
 
 ## :beginner: Advanced Level 👇
