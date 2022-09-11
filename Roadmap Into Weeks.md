@@ -42,7 +42,7 @@
  
   
  ### Week 6: 
- Half of [Tableau (udacity)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 ) <br> 
+ Half of [(udacity Course)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 ) <br> 
  [Visualizing (datacamp)](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-seaborn ) <br> 
   
  ## Stage 2 
