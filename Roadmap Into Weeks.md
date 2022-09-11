@@ -15,38 +15,39 @@
   
  ## Stage 1 
  ### Week 1 : 
- [Python (first course in the specialization)](https://www.coursera.org/learn/python?specialization=python) <br>  
+ [Python (Udacity Course)](https://www.udacity.com/course/introduction-to-python--ud1110) <br>  
  Task 1 : [Notebook link]() <br>  
-  
+ 
  ### Week 2: 
- [Python (second course in the specialization)]( https://www.coursera.org/learn/python-data?specialization=python) <br>  
+ [Python summary](https://www.youtube.com/watch?v=rfscVS0vtbw) <br> 
  [Descriptive stats](https://www.youtube.com/watch?v=NyCqaxLW3p8) <br> 
  Task 2 : [Notebook link]() <br>  
   
  ### Week 3: 
- [Python summary](https://www.youtube.com/watch?v=rfscVS0vtbw) <br> 
  [Descriptive stats](https://drive.google.com/file/d/1C4RMwG5HphNAHgYjzif7N_7Eb_w_IDAn/view?usp=sharing) <br> 
+ 3 videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br> 
  Task 3 : [Notebook link]() <br>  
   
  ### Week 4: 
- [Pandas and Numpy udacity](https://classroom.udacity.com/courses/ud170 ) <br> 
- 6 videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br> 
- Task 4 p1 : [Notebook link](https://colab.research.google.com/drive/1bAS39rOstc4bf3vdaTvD8PEjlHyIB8wp?usp=sharing#scrollTo=MwzekJmUstWR) <br>  
- Task 4 p2 : [Notebook link](https://colab.research.google.com/drive/1jGpdatYPiQv5VLPtQutRPtGsi6Bpm3U4?usp=sharing) <br>  
+ [Numpy PDF](https://drive.google.com/file/d/1cdYROgc7D9zXmkjWRbq16POyDFI5JzSH/view) <br>
+ [Pandas PDF](https://drive.google.com/file/d/1sZu349F1HxP9GD9p9tYNUyPQznxJ8DPs/view?usp=drivesdk) <br>
+ 4 videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br> 
+ Task 4 : [Notebook link]() <br>  
   
   
  ### Week 5: 
  [Git (udacity)](https://bit.ly/3I1h8yc) <br> 
- 2 lessons of [Cleaning (datacamp)](https://app.datacamp.com/learn/courses/cleaning-data-in-python) <br>  
  [Cleaning blog](https://bit.ly/3vXqybR ) <br> 
-  
+ [Cleaning Kaggle](https://www.kaggle.com/learn/data-cleaning) <br> 
+ 
   
  ### Week 6: 
- Finish [Cleaning (datacamp)](https://app.datacamp.com/learn/courses/cleaning-data-in-python) <br> 
+ Half of [Tableau (udacity)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 ) <br> 
  [Visualizing (datacamp)](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-seaborn ) <br> 
   
  ## Stage 2 
  ### Week 7: 
+ [Cleaning (datacamp)](https://app.datacamp.com/learn/courses/cleaning-data-in-python) <br> 
  [Ask Questions (from google specialization)](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=google-data-analytics) <br> 
  [More Visualizing (datacamp)](https://app.datacamp.com/learn/courses/intermediate-data-visualization-with-seaborn ) <br> 
   
