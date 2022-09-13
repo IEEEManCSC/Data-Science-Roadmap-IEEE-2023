@@ -47,8 +47,8 @@
   
  ## Stage 2 
  ### Week 7: 
- [Cleaning (datacamp)](https://app.datacamp.com/learn/courses/cleaning-data-in-python) <br> 
- [Guide TO Data Cleaning)]https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4
+ [Cleaning(datacamp)](https://app.datacamp.com/learn/courses/cleaning-data-in-python) <br> 
+ [Guide TO Data Cleaning](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)
   
   
  ### Week 8: 
