@@ -1,4 +1,4 @@
-<h1 align="center">Roadmap into weeks </h1> 
+<h1 align="center">Roadmap Into Weeks </h1> 
 
   
  ## It's the same roadmap, but divided into weeks with an average studying rate of 6 hours per week. 
@@ -16,23 +16,19 @@
  ## Stage 1 
  ### Week 1 : 
  [Python (Udacity Course)](https://www.udacity.com/course/introduction-to-python--ud1110) <br>  
- Task 1 : [Notebook link]() <br>  
  
  ### Week 2: 
  [Python summary](https://www.youtube.com/watch?v=rfscVS0vtbw) <br> 
  [Descriptive stats](https://www.youtube.com/watch?v=NyCqaxLW3p8) <br> 
- Task 2 : [Notebook link]() <br>  
   
  ### Week 3: 
- [Descriptive stats](https://drive.google.com/file/d/1C4RMwG5HphNAHgYjzif7N_7Eb_w_IDAn/view?usp=sharing) <br> 
+ [Stats summary](https://drive.google.com/file/d/1C4RMwG5HphNAHgYjzif7N_7Eb_w_IDAn/view?usp=sharing) <br> 
  3 videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br> 
- Task 3 : [Notebook link]() <br>  
   
  ### Week 4: 
  [Numpy PDF](https://drive.google.com/file/d/1cdYROgc7D9zXmkjWRbq16POyDFI5JzSH/view) <br>
  [Pandas PDF](https://drive.google.com/file/d/1sZu349F1HxP9GD9p9tYNUyPQznxJ8DPs/view?usp=drivesdk) <br>
  4 videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br> 
- Task 4 : [Notebook link]() <br>  
   
   
  ### Week 5: 
@@ -48,43 +44,42 @@
  ## Stage 2 
  ### Week 7: 
  [Cleaning(datacamp)](https://app.datacamp.com/learn/courses/cleaning-data-in-python) <br> 
- [Guide TO Data Cleaning](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)
+ [Guide TO Data Cleaning](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4) <br> 
   
   
  ### Week 8: 
- [Visualizing (datacamp Seaborn)](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-seaborn)
+ [Visualizing (datacamp Seaborn)](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-seaborn) <br> 
  [More Visualizing (datacamp)](https://app.datacamp.com/learn/courses/intermediate-data-visualization-with-seaborn ) <br> 
- Task 8 : Investigate the following dataset [Data](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand) 
+ Task 8 : Investigate the following dataset [Data](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand) <br> 
   
   
  ### Week 9: 
  [EDA (datacamp)](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) <br> 
- Task 9 : [Tableau Task](https://docs.google.com/document/d/1TamjhCdFRgyPi6ZRiYFGRs5KyECbcN6a_vpimEK-aP8/edit?usp=sharing) 
+ [Notebook](https://www.kaggle.com/code/startupsci/titanic-data-science-solutions/notebook) <br>
+ Task 9 : [Tableau Task](https://docs.google.com/document/d/1TamjhCdFRgyPi6ZRiYFGRs5KyECbcN6a_vpimEK-aP8/edit?usp=sharing) <br> 
   
   
  ### Week 10:
- Finish [Last To Lesson OF Tableau (udacity)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 ) <br> 
+ Finish [Last Two Lesson OF Tableau (udacity)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 ) <br> 
  [Tableau and visualizing (from google specialization)](https://www.coursera.org/learn/visualize-data?specialization=google-data-analytics) <br> 
  
  
  ### Week 11: 
  [Intro to DB](https://app.datacamp.com/learn/courses/introduction-to-relational-databases-in-sql) <br> 
  [Intro to SQL](https://app.datacamp.com/learn/courses/introduction-to-sql) <br> 
- Task 10 : [SQL Task]()
- 
+ [Notebook](https://www.kaggle.com/code/dimarudov/data-analysis-using-sql) <br>
   
  ### Week 12: 
  [Intro to web scraping](https://drive.google.com/file/d/1kV0iewMJt0RHSYWAjJCaTNoD41wpfRXM/view?usp=sharing) <br> 
  [Web scraping](https://app.datacamp.com/learn/courses/web-scraping-with-python) <br>  
- Task 11 : [Scraping Task](https://docs.google.com/document/d/1TmhlH5gOV-glWIMgq6P51sPr3GezLnpaiEqDlptsVDE/edit?usp=sharing) 
+ Task 11 : [Scraping Task](https://docs.google.com/document/d/1TmhlH5gOV-glWIMgq6P51sPr3GezLnpaiEqDlptsVDE/edit?usp=sharing) <br> 
  
   
   
  ## Stage 3 
  ### Week 13 : 
  [Inferential Stats](https://classroom.udacity.com/courses/ud201 ) <br> 
- [Intro for Machine ](https://www.coursera.org/learn/ai-for-everyone)
- Task 12 : [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSc0QKKMx2LuDcnuC_9nDyzQDhnn2BKkwoAe6KxwdQ_FjEsBYw/viewform?usp=sf_link) 
+ [Intro for Machine ](https://www.coursera.org/learn/ai-for-everyone) <br> 
 
 
  ### Week 14 : 
