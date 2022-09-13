@@ -52,7 +52,7 @@
   
   
  ### Week 8: 
- [Visualizing (datacamp Seaborn)]https://learn.datacamp.com/courses/introduction-to-data-visualization-with-seaborn
+ [Visualizing (datacamp Seaborn)](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-seaborn)
  [More Visualizing (datacamp)](https://app.datacamp.com/learn/courses/intermediate-data-visualization-with-seaborn ) <br> 
  Task 8 : Investigate the following dataset [Data](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand) 
   
@@ -83,7 +83,7 @@
  ## Stage 3 
  ### Week 13 : 
  [Inferential Stats](https://classroom.udacity.com/courses/ud201 ) <br> 
- [Intro for Machine ]https://www.coursera.org/learn/ai-for-everyone
+ [Intro for Machine ](https://www.coursera.org/learn/ai-for-everyone)
  Task 12 : [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSc0QKKMx2LuDcnuC_9nDyzQDhnn2BKkwoAe6KxwdQ_FjEsBYw/viewform?usp=sf_link) 
 
 
