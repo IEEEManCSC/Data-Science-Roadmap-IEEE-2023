@@ -56,13 +56,13 @@
  ### Week 9: 
  [EDA (datacamp)](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) <br> 
  [Notebook](https://www.kaggle.com/code/startupsci/titanic-data-science-solutions/notebook) <br>
- Task 9 : [Tableau Task](https://docs.google.com/document/d/1TamjhCdFRgyPi6ZRiYFGRs5KyECbcN6a_vpimEK-aP8/edit?usp=sharing) <br> 
   
   
  ### Week 10:
  Finish [Last Two Lesson OF Tableau (udacity)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 ) <br> 
  [Tableau and visualizing (from google specialization)](https://www.coursera.org/learn/visualize-data?specialization=google-data-analytics) <br> 
- 
+ Task 10 : [Tableau Task](https://docs.google.com/document/d/1TamjhCdFRgyPi6ZRiYFGRs5KyECbcN6a_vpimEK-aP8/edit?usp=sharing) <br> 
+
  
  ### Week 11: 
  [Intro to DB](https://app.datacamp.com/learn/courses/introduction-to-relational-databases-in-sql) <br> 
