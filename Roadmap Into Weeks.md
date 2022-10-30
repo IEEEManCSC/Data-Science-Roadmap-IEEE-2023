@@ -15,7 +15,8 @@
   
  ## Stage 1 
  ### Week 1 : 
- [Python (Udacity Course)](https://www.udacity.com/course/introduction-to-python--ud1110) <br>  
+ [Python (Udacity Course)](https://www.udacity.com/course/introduction-to-python--ud1110) <br>
+ [Python (Corey Schafer)](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) <br>
  
  ### Week 2: 
  [Python summary](https://www.youtube.com/watch?v=rfscVS0vtbw) <br> 
