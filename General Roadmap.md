@@ -67,9 +67,9 @@ Most learning platforms have integrated code exercises where you don’t need to
 
 
 ### 1. Python
-> I will recommend `Python`, although
-you may encounter `R` in more Data Analytics related jobs. Python mastery will
-come with time - learn enough basics to be able to read code and implement. <br>
+> I will recommend `Python`, although you may encounter `R` in more Data Analytics related jobs. Python mastery will come with time - learn enough basics to be able
+>  to read code and implement.
+Learning python will require time to reiterate several times to understand a concept, & trust me it's totally worth it. As said learning Data science requires time and learning the hard way rather than shortcuts which will make you nowhere. So, don't get demotivated if you're not able to understand a concept, just keep trying and you'll get it. <br>
 
 &emsp;&emsp;&emsp;:video_camera: [Introduction To Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)<br>
 &emsp;&emsp;&emsp;:video_camera: [Python Full Course - FreeCodeCamp on YouTube](https://www.youtube.com/watch?v=rfscVS0vtbw)<br>
