@@ -71,6 +71,8 @@ Most learning platforms have integrated code exercises where you don’t need to
 >  to read code and implement.
 Learning python will require time to reiterate several times to understand a concept, & trust me it's totally worth it. As said learning Data science requires time and learning the hard way rather than shortcuts which will make you nowhere. So, don't get demotivated if you're not able to understand a concept, just keep trying and you'll get it. <br>
 
+&emsp;&emsp;&emsp;:video_camera: [Python (Corey Schafer)](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) <br>
+&emsp;&emsp;&emsp;:video_camera: [Intermediate Python (Corey Schafer)](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) <br>
 &emsp;&emsp;&emsp;:video_camera: [Introduction To Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)<br>
 &emsp;&emsp;&emsp;:video_camera: [Python Full Course - FreeCodeCamp on YouTube](https://www.youtube.com/watch?v=rfscVS0vtbw)<br>
 &emsp;&emsp;&emsp;:video_camera: [Intro to cs with python MIT](https://bit.ly/3hV3rqj)  <br>
@@ -82,12 +84,9 @@ Learning python will require time to reiterate several times to understand a con
 &emsp;&emsp;&emsp;:video_camera: [YouTube playlist](https://www.youtube.com/playlist?list=PLTNMv857s9WVStKLco6ZBOsfSGXzJ1L0f)<br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic Course 1](https://youtu.be/NyCqaxLW3p8)<br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic Course 2](https://www.youtube.com/playlist?list=PLu1nnZ4q7vDHfhYtBLjxrAhh5IYX0v4KO)<br>
-&emsp;&emsp;&emsp;:video_camera: [Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)<br>
-&emsp;&emsp;&emsp;:video_camera: [YouTube playlist Arabic](https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW)<br>
-&emsp;&emsp;&emsp;:video_camera: [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)++<br>
+&emsp;&emsp;&emsp;:video_camera: [Statistics Fundamentals StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)<br>
 &emsp;&emsp;&emsp;:closed_book: [Pdf](https://drive.google.com/file/d/1C4RMwG5HphNAHgYjzif7N_7Eb_w_IDAn/view?usp=sharing)<br>
 &emsp;&emsp;&emsp;:closed_book: [Online statistics education](http://onlinestatbook.com/Online_Statistics_Education.pdf)<br>
-&emsp;&emsp;&emsp;:closed_book: Intro to descriptive statistics [Article1](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fdescriptive-statistics-f2beeaf7a8df) & [Article2](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fintro-to-descriptive-statistics-252e9c464ac9)<br>
 &emsp;&emsp;&emsp;:closed_book: [--->Practical Statistics for Data Scientists Book](https://eg1lib.org/book/5524607/1e8e36)<br>
 
 
