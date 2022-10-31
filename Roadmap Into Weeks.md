@@ -60,7 +60,7 @@ Task 2 p2: [Notebook link](https://colab.research.google.com/drive/1tA5Ryyoj1TKy
  ### Week 8: 
  [Visualizing Intro to seaborn (datacamp)](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-seaborn ) <br>
  [Intermediate in seaborn(datacamp)](https://app.datacamp.com/learn/courses/intermediate-data-visualization-with-seaborn ) <br> 
- Task 8 : Investigate the following dataset [Data](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
+ Task 8 : Investigate the following [Dataset](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
 
   
  ### Week 9: 
