@@ -71,10 +71,9 @@ Most learning platforms have integrated code exercises where you don’t need to
 >  to read code and implement.
 Learning python will require time to reiterate several times to understand a concept, & trust me it's totally worth it. As said learning Data science requires time and learning the hard way rather than shortcuts which will make you nowhere. So, don't get demotivated if you're not able to understand a concept, just keep trying and you'll get it. <br>
 
-&emsp;&emsp;&emsp;:video_camera: [Python (Corey Schafer)](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) <br>
-&emsp;&emsp;&emsp;:video_camera: [Intermediate Python (Corey Schafer)](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) <br>
 &emsp;&emsp;&emsp;:video_camera: [Introduction To Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)<br>
-&emsp;&emsp;&emsp;:video_camera: [Python Full Course - FreeCodeCamp on YouTube](https://www.youtube.com/watch?v=rfscVS0vtbw)<br>
+&emsp;&emsp;&emsp;:video_camera: [BeginnerPython (Corey Schafer)](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) <br>
+&emsp;&emsp;&emsp;:video_camera: [Intermediate Python (Corey Schafer)](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) <br>
 &emsp;&emsp;&emsp;:video_camera: [Intro to cs with python MIT](https://bit.ly/3hV3rqj)  <br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ)<br>
 &emsp;&emsp;&emsp;:closed_book: [Pdf](https://drive.google.com/file/d/1xhO5X5iGJeottX2dc2gNejQll0sTBgHz/view?usp=drivesdk)<br>
@@ -86,37 +85,28 @@ Learning python will require time to reiterate several times to understand a con
 &emsp;&emsp;&emsp;:video_camera: [Arabic Course 2](https://www.youtube.com/playlist?list=PLu1nnZ4q7vDHfhYtBLjxrAhh5IYX0v4KO)<br>
 &emsp;&emsp;&emsp;:video_camera: [Statistics Fundamentals StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)<br>
 &emsp;&emsp;&emsp;:closed_book: [Pdf](https://drive.google.com/file/d/1C4RMwG5HphNAHgYjzif7N_7Eb_w_IDAn/view?usp=sharing)<br>
-&emsp;&emsp;&emsp;:closed_book: [Online statistics education](http://onlinestatbook.com/Online_Statistics_Education.pdf)<br>
-&emsp;&emsp;&emsp;:closed_book: [--->Practical Statistics for Data Scientists Book](https://eg1lib.org/book/5524607/1e8e36)<br>
 
 
 ### 3. Pandas
 &emsp;&emsp;&emsp;:video_camera: [Corey playlist-Youtube](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)<br>
 &emsp;&emsp;&emsp;:video_camera: [Playlist-Youtube](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1)<br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/watch?v=3ISW655DemU&list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F)<br>
-&emsp;&emsp;&emsp;:video_camera: [YouTube](https://www.youtube.com/watch?v=vmEHCJofslg)<br>
 &emsp;&emsp;&emsp;:video_camera: [Google Course(Data Analysis)](https://bit.ly/3pR0480) <br>
 &emsp;&emsp;&emsp;:closed_book: [Kaggle Course](https://www.kaggle.com/learn/pandas)<br>
 &emsp;&emsp;&emsp;:closed_book: [Kaggle Pandas 100 tricks](https://www.kaggle.com/code/shivan118/pandas-100-tricks)<br>
 
 ### 4. Numpy 
 
-&emsp;&emsp;&emsp;:video_camera: [YouTube](https://www.youtube.com/watch?v=QUT1VHiLmmI)<br>
-&emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science)<br>
+&emsp;&emsp;&emsp;:video_camera: [YouTube freeCodeCamp](https://www.youtube.com/watch?v=QUT1VHiLmmI)<br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/watch?v=5-5CrLmf2vk&list=PLIA_seGogbkGDYq-dnVCsELEIq_7HK7Ca)<br>
+&emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science)<br>
 &emsp;&emsp;&emsp;:closed_book: [Tutorial](http://cs231n.github.io/python-numpy-tutorial/)<br>
-&emsp;&emsp;&emsp;:closed_book: [Docs](https://numpy.org/doc/1.18/user/quickstart.html)<br>
-&emsp;&emsp;&emsp;:closed_book: [Notebook]()<br>
+&emsp;&emsp;&emsp;:closed_book: [Numpy DOC](https://numpy.org/learn/) <br>
 
 ### 5. Data Cleaning [(👉🏻Click👈🏻)](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)<br> 
-&emsp;&emsp;&emsp;:video_camera: [Course 1](https://www.datacamp.com/courses/cleaning-data-in-python)<br>
-&emsp;&emsp;&emsp;:closed_book: [Notebook1](https://www.kaggle.com/bandiatindra/telecom-churn-prediction)<br/>
-&emsp;&emsp;&emsp;:closed_book: [Notebook2](https://drive.google.com/drive/folders/1OQAEQ8rC4j6oBP7AyDU4bKpPr8sSStJI?fbclid=IwAR2dSrbyoZLM-Wm57yEYy8L8PmpPV9hqXdkNf-pURJC5C5xCz7UJB4YpJ7M)<br/>
-&emsp;&emsp;&emsp;:closed_book: [Notebook3](https://www.kaggle.com/ashishg21/data-cleaning-and-some-analysis-shoe-prices)<br>
-&emsp;&emsp;&emsp;:closed_book: [Kaggle Data cleaning](https://www.kaggle.com/learn/data-cleaning)<br>
-&emsp;&emsp;&emsp;:video_camera: [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python)<br/>
+&emsp;&emsp;&emsp;:video_camera: [DataCamp Course](https://www.datacamp.com/courses/cleaning-data-in-python)<br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic video](https://www.youtube.com/watch?v=Mrd56i_U6cM) but not enough<br/>
-&emsp;&emsp;&emsp;:video_camera: [Playlist](https://www.youtube.com/watch?v=hl-TGI4550M&list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)<br>
+&emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/learn/data-cleaning)<br>
 &emsp;&emsp;&emsp;:closed_book: [Pandas 100 tricks](https://www.kaggle.com/code/shivan118/pandas-100-tricks)Note: it's already mentioned in pandas above<br>
 
 ### 6. Data Visualization
@@ -190,6 +180,7 @@ Note: it's already mentioned in the above probability course <br>
 
 
 
+&emsp;&emsp;&emsp;:closed_book: [--->Practical Statistics for Data Scientists Book](https://eg1lib.org/book/5524607/1e8e36)<br>
 
 
 
