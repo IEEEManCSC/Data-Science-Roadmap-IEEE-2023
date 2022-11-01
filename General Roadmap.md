@@ -104,7 +104,7 @@ Learning python will require time to reiterate several times to understand a con
 &emsp;&emsp;&emsp;:closed_book: [Numpy DOC](https://numpy.org/learn/) <br>
 
 ### 5. Data Cleaning [(👉🏻Click👈🏻)](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)<br> 
-&emsp;&emsp;&emsp;:video_camera: [Datacamp Course](https://www.datacamp.com/courses/cleaning-data-in-python)<br>
+&emsp;&emsp;&emsp;:video_camera: [ Course (datacamp)](https://www.datacamp.com/courses/cleaning-data-in-python)<br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic video](https://www.youtube.com/watch?v=Mrd56i_U6cM) but not enough<br/>
 &emsp;&emsp;&emsp;:closed_book:  [Kaggle Course](https://www.kaggle.com/learn/data-cleaning)<br>
 &emsp;&emsp;&emsp;:closed_book:  [Pandas 100 tricks](https://www.kaggle.com/code/shivan118/pandas-100-tricks)Note: it's already mentioned in pandas above<br>
@@ -113,19 +113,17 @@ Learning python will require time to reiterate several times to understand a con
 ### 6. Data Visualization
 
 &emsp;&emsp;&emsp;:video_camera: [Ask Questions (from google specialization)](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=google-data-analytics) <br>
+&emsp;&emsp;&emsp;:video_camera: [Understanding and Visualizing with Python](https://www.coursera.org/learn/understanding-visualization-data)<br>
 &emsp;&emsp;&emsp;:video_camera: [Visualizing (datacamp Matplotlib)](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib) <br> 
 &emsp;&emsp;&emsp;:closed_book: [Matplotlib Tutorial](https://matplotlib.org/stable/tutorials/index.html) <br> 
 &emsp;&emsp;&emsp;:video_camera: [Matplotlib Youtube](https://www.youtube.com/watch?v=zl5qPnqps8M&list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl&index=2) <br>
-&emsp;&emsp;&emsp;:video_camera: [Seaborn  Course 1](https://www.youtube.com/watch?v=W-jaYQq1C7Q&list=PLJIOr9Je9wzHT-ptgfelpt2Nyx4VGX_j9)<br>
-&emsp;&emsp;&emsp;:video_camera: [Seaborn  Course 2](https://www.youtube.com/watch?v=vaf4ir8eT38&list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j&index=3)<br> 
-&emsp;&emsp;&emsp;:video_camera: [Visualizing Intro to seaborn (datacamp)](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-seaborn ) <br>
+
+&emsp;&emsp;&emsp;:video_camera: [Seaborn Youtube](https://www.youtube.com/watch?v=vaf4ir8eT38&list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j&index=3)<br> 
+&emsp;&emsp;&emsp;:video_camera: [Visualizing Intro to seaborn (datacamp)](https://bit.ly/3KprvxE) <br>
 &emsp;&emsp;&emsp;:video_camera: [Intermediate in seaborn(datacamp)](https://app.datacamp.com/learn/courses/intermediate-data-visualization-with-seaborn ) <br>
-&emsp;&emsp;&emsp;:video_camera: [Visualizing intro to seaborn (datacamp)](https://bit.ly/3KprvxE ) <br>
-&emsp;&emsp;&emsp;:video_camera: [Visualizing intro to matplotlib (datacamp)](https://bit.ly/3Cz9E4M ) <br>
 &emsp;&emsp;&emsp;:closed_book: [Kaggle to Data Visualization with Seaborn](https://www.kaggle.com/learn/data-visualization)<br>
 &emsp;&emsp;&emsp;:video_camera: [Playlist-Youtube](https://www.youtube.com/watch?v=z7ZINBk8EUk&list=PL998lXKj66MpNd0_XkEXwzTGPxY2jYM2d)<br>
 &emsp;&emsp;&emsp;:video_camera: [sentdex - Playlist on YouTube](https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF)<br>
-&emsp;&emsp;&emsp;:video_camera: [Understanding and Visualizing with Python](https://www.coursera.org/learn/understanding-visualization-data)<br>
 
 ## :beginner: Intermediate Level 👇
 
