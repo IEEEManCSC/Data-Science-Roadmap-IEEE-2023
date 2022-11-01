@@ -115,8 +115,7 @@ Learning python will require time to reiterate several times to understand a con
 &emsp;&emsp;&emsp;:video_camera: [Ask Questions (from google specialization)](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=google-data-analytics) <br>
 &emsp;&emsp;&emsp;:video_camera: [Understanding and Visualizing with Python](https://www.coursera.org/learn/understanding-visualization-data)<br>
 &emsp;&emsp;&emsp;:video_camera: [Matplotlib (datacamp)](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib) <br> 
-&emsp;&emsp;&emsp;:video_camera: [Matplotlib](https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF)<br>
-&emsp;&emsp;&emsp;:video_camera: [Matplotlib Youtube](https://www.youtube.com/watch?v=zl5qPnqps8M&list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl&index=2) <br>
+&emsp;&emsp;&emsp;:video_camera: [Matplotlib Youtube](https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF)<br>
 &emsp;&emsp;&emsp;:closed_book:  [Kaggle Course with Seaborn](https://www.kaggle.com/learn/data-visualization)<br>
 &emsp;&emsp;&emsp;:closed_book:  [Matplotlib Tutorial](https://matplotlib.org/stable/tutorials/index.html) <br> 
 
