@@ -120,10 +120,14 @@ Learning python will require time to reiterate several times to understand a con
 &emsp;&emsp;&emsp;:video_camera: [Intro to seaborn (datacamp)](https://bit.ly/3KprvxE) <br>
 &emsp;&emsp;&emsp;:video_camera: [Intermediate in seaborn(datacamp)](https://app.datacamp.com/learn/courses/intermediate-data-visualization-with-seaborn ) <br>
 &emsp;&emsp;&emsp;:video_camera: [Seaborn Youtube](https://www.youtube.com/watch?v=vaf4ir8eT38&list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j&index=3)<br>
-&emsp;&emsp;&emsp;:closed_book:  [Kaggle Course with Seaborn](https://www.kaggle.com/learn/data-visualization)<br>
 &emsp;&emsp;&emsp;:closed_book:  [Matplotlib Tutorial](https://matplotlib.org/stable/tutorials/index.html) <br> 
-&emsp;&emsp;&emsp;:closed_book: [How to choose the right chart](https://www.data-to-viz.com/fbclid=IwAR1dWey6y_7DbCoursezlOPfsBhmBbHa0XgDoRWmTHovxfb1QbZCihobk#boxplot)<br>
+&emsp;&emsp;&emsp;:closed_book: [How to ask good questions?](https://towardsdatascience.com/how-to-ask-good-questions-be41b517c1b)<br>
+&emsp;&emsp;&emsp;:closed_book:  [Kaggle Course with Seaborn](https://www.kaggle.com/learn/data-visualization)<br>
 
+### 4. EDA
+&emsp;&emsp;&emsp;:video_camera: [EDA (datacamp)](https://bit.ly/3KChY6z ) <br>
+&emsp;&emsp;&emsp;:video_camera: [--->EDA (from google specialization)](https://bit.ly/3CzSrrW ) <br>
+&emsp;&emsp;&emsp;:video_camera: [IBM-EDA for Machine Learning](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning) <br>
 
 
 ## :beginner: Intermediate Level 👇
@@ -131,22 +135,14 @@ Learning python will require time to reiterate several times to understand a con
 
 
 
-### 2. Visualizations
 
 
 
 ### 3. Probability
 
-&emsp;&emsp;&emsp;:video_camera: [>>>>Course_Metawea_probability_Lhan_academy](https://www.khanacademy.org/math/statistics-probability/probability-library) <br>
+&emsp;&emsp;&emsp;:video_camera: [Probability_khan_academy](https://www.khanacademy.org/math/statistics-probability/probability-library) <br>
 
 
-### 4. EDA
-Note: it's already mentioned in the above probability course <br>
-&emsp;&emsp;&emsp;:closed_book: [--->Ask questions(from google specialization)](https://bit.ly/3CLwM01) <br>
-&emsp;&emsp;&emsp;:video_camera: [>>>>Course_Metawea EDA (datacamp)](https://bit.ly/3KChY6z ) <br>
-&emsp;&emsp;&emsp;:video_camera: [--->EDA (from google specialization)](https://bit.ly/3CzSrrW ) <br>
-&emsp;&emsp;&emsp;:closed_book: [How to ask good questions?](https://towardsdatascience.com/how-to-ask-good-questions-be41b517c1b)<br>
-&emsp;&emsp;&emsp;:video_camera: [IBM-EDA for Machine Learning](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning) <br>
 
 ### 5. Dashboards & Git
 &emsp;*Tableau*<br>
