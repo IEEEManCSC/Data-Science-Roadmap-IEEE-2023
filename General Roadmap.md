@@ -183,6 +183,7 @@ Note: it's already mentioned in the above probability course <br>
 
 
 &emsp;&emsp;&emsp;:closed_book: [--->Practical Statistics for Data Scientists Book](https://eg1lib.org/book/5524607/1e8e36)<br>
+&emsp;&emsp;&emsp;:closed_book: [--->Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures](https://clauswilke.com/dataviz/)<br>
 
 
 
