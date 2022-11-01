@@ -115,25 +115,25 @@ Learning python will require time to reiterate several times to understand a con
 &emsp;&emsp;&emsp;:video_camera: [Ask Questions (from google specialization)](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=google-data-analytics) <br>
 &emsp;&emsp;&emsp;:video_camera: [Understanding and Visualizing with Python](https://www.coursera.org/learn/understanding-visualization-data)<br>
 &emsp;&emsp;&emsp;:video_camera: [Matplotlib (datacamp)](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib) <br> 
-&emsp;&emsp;&emsp;:video_camera: [Matplotlib Youtube](https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF)<br>
-&emsp;&emsp;&emsp;:closed_book:  [Kaggle Course with Seaborn](https://www.kaggle.com/learn/data-visualization)<br>
-&emsp;&emsp;&emsp;:closed_book:  [Matplotlib Tutorial](https://matplotlib.org/stable/tutorials/index.html) <br> 
-
-
+&emsp;&emsp;&emsp;:video_camera: [Corey Schafer - Matplotlib](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)<br>
+&emsp;&emsp;&emsp;:video_camera: [Matplotlib sentdex](https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF)<br>
 &emsp;&emsp;&emsp;:video_camera: [Intro to seaborn (datacamp)](https://bit.ly/3KprvxE) <br>
 &emsp;&emsp;&emsp;:video_camera: [Intermediate in seaborn(datacamp)](https://app.datacamp.com/learn/courses/intermediate-data-visualization-with-seaborn ) <br>
-&emsp;&emsp;&emsp;:video_camera: [Seaborn Youtube](https://www.youtube.com/watch?v=vaf4ir8eT38&list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j&index=3)<br> 
+&emsp;&emsp;&emsp;:video_camera: [Seaborn Youtube](https://www.youtube.com/watch?v=vaf4ir8eT38&list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j&index=3)<br>
+&emsp;&emsp;&emsp;:closed_book:  [Kaggle Course with Seaborn](https://www.kaggle.com/learn/data-visualization)<br>
+&emsp;&emsp;&emsp;:closed_book:  [Matplotlib Tutorial](https://matplotlib.org/stable/tutorials/index.html) <br> 
+&emsp;&emsp;&emsp;:closed_book: [How to choose the right chart](https://www.data-to-viz.com/fbclid=IwAR1dWey6y_7DbCoursezlOPfsBhmBbHa0XgDoRWmTHovxfb1QbZCihobk#boxplot)<br>
+
+
 
 ## :beginner: Intermediate Level 👇
 
-### 1. Cleaning
-&emsp;&emsp;&emsp;:closed_book: [>>>>Notebook_Metawea](https://www.kaggle.com/code/nareshbhat/outlier-the-silent-killer) <br>
+
 
 
 ### 2. Visualizations
-&emsp;&emsp;&emsp;:video_camera: [--->Corey Schafer - Playlist on Youtube](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)<br>
-&emsp;&emsp;&emsp;:video_camera: [--->Intermediate Data Visualization with Seaborn](https://learn.datacamp.com/courses/intermediate-data-visualization-with-seaborn)<br>
-&emsp;&emsp;&emsp;:closed_book: [How to choose the right chart](https://www.data-to-viz.com/?fbclid=IwAR1dWey6y_7DbCoursezlOPfsBhmBbHa0XgDoRWmTHovxfb1QbZCihobk#boxplot)<br>
+
+
 
 ### 3. Probability
 
