@@ -119,7 +119,7 @@ Learning python will require time to reiterate several times to understand a con
 &emsp;&emsp;&emsp;:video_camera: [Matplotlib Youtube](https://www.youtube.com/watch?v=zl5qPnqps8M&list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl&index=2) <br>
 
 &emsp;&emsp;&emsp;:video_camera: [Seaborn Youtube](https://www.youtube.com/watch?v=vaf4ir8eT38&list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j&index=3)<br> 
-&emsp;&emsp;&emsp;:video_camera: [Visualizing Intro to seaborn (datacamp)](https://bit.ly/3KprvxE) <br>
+&emsp;&emsp;&emsp;:video_camera: [Intro to seaborn (datacamp)](https://bit.ly/3KprvxE) <br>
 &emsp;&emsp;&emsp;:video_camera: [Intermediate in seaborn(datacamp)](https://app.datacamp.com/learn/courses/intermediate-data-visualization-with-seaborn ) <br>
 &emsp;&emsp;&emsp;:closed_book: [Kaggle to Data Visualization with Seaborn](https://www.kaggle.com/learn/data-visualization)<br>
 &emsp;&emsp;&emsp;:video_camera: [Playlist-Youtube](https://www.youtube.com/watch?v=z7ZINBk8EUk&list=PL998lXKj66MpNd0_XkEXwzTGPxY2jYM2d)<br>
