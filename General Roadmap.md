@@ -127,11 +127,6 @@ Learning python will require time to reiterate several times to understand a con
 &emsp;&emsp;&emsp;:closed_book: [How to ask good questions?](https://towardsdatascience.com/how-to-ask-good-questions-be41b517c1b)<br>
 &emsp;&emsp;&emsp;:closed_book:  [Kaggle Course with Seaborn](https://www.kaggle.com/learn/data-visualization)<br>
 
-### 4. EDA
-&emsp;&emsp;&emsp;:video_camera: [EDA (datacamp)](https://bit.ly/3KChY6z ) <br>
-&emsp;&emsp;&emsp;:video_camera: [IBM-EDA for Machine Learning](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning) <br>
-
-
 ## :beginner: Intermediate Level 👇
 
 
@@ -216,6 +211,12 @@ Learning python will require time to reiterate several times to understand a con
          &emsp;&emsp;&emsp;:video_camera: [ML Algorithms in Practice](https://www.coursera.org/specializations/machine-learning-algorithms-real-world?utm_medium=email&utm_source=marketing&utm_campaign=A39CcMUuEempyReieZALEQ)<br>
          &emsp;&emsp;&emsp;:video_camera: [ML scientist](https://learn.datacamp.com/career-tracks/machine-learning-scientist-with-python?version=1)<br>
          &emsp;&emsp;&emsp;:video_camera: [Project](https://www.coursera.org/learn/applied-data-science-capstone)<br>
+
+
+### 4. EDA
+&emsp;&emsp;&emsp;:video_camera: [EDA (datacamp)](https://bit.ly/3KChY6z ) <br>
+&emsp;&emsp;&emsp;:video_camera: [IBM-EDA for Machine Learning](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning) <br>
+
 
 **3. Web Scraping/APIs**<br>
          &emsp;&emsp;&emsp;:video_camera: [course](https://learn.datacamp.com/courses/web-scraping-with-python)<br>
