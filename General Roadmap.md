@@ -77,8 +77,8 @@ Learning python will require time to reiterate several times to understand a con
 &emsp;&emsp;&emsp;:video_camera: [Intermediate Python (Corey Schafer)](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) <br>
 &emsp;&emsp;&emsp;:video_camera: [Intro to cs with python MIT](https://bit.ly/3hV3rqj)  <br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ)<br>
-&emsp;&emsp;&emsp;:closed_book: [Pdf](https://drive.google.com/file/d/1xhO5X5iGJeottX2dc2gNejQll0sTBgHz/view?usp=drivesdk)<br>
-&emsp;&emsp;&emsp;:closed_book: [Tutorial for regular expression](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)<br>
+&emsp;&emsp;&emsp;:closed_book:  [Pdf](https://drive.google.com/file/d/1xhO5X5iGJeottX2dc2gNejQll0sTBgHz/view?usp=drivesdk)<br>
+&emsp;&emsp;&emsp;:closed_book:  [Tutorial for regular expression](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)<br>
 
 ### 2. Descriptive Statistics
 &emsp;&emsp;&emsp;:video_camera: [Intro to descriptive statistics from Udacity](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)<br>
@@ -86,7 +86,7 @@ Learning python will require time to reiterate several times to understand a con
 &emsp;&emsp;&emsp;:video_camera: [Arabic Course 1](https://youtu.be/NyCqaxLW3p8)<br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic Course 2](https://www.youtube.com/playlist?list=PLu1nnZ4q7vDHfhYtBLjxrAhh5IYX0v4KO)<br>
 &emsp;&emsp;&emsp;:video_camera: [Statistics Fundamentals StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)<br>
-&emsp;&emsp;&emsp;:closed_book: [Pdf](https://drive.google.com/file/d/1C4RMwG5HphNAHgYjzif7N_7Eb_w_IDAn/view?usp=sharing)<br>
+&emsp;&emsp;&emsp;:closed_book:  [Pdf](https://drive.google.com/file/d/1C4RMwG5HphNAHgYjzif7N_7Eb_w_IDAn/view?usp=sharing)<br>
 
 
 ### 3. Pandas
@@ -202,19 +202,12 @@ APIs <br>
          &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.dataquest.io/blog/python-api-tutorial/)<br>
          &emsp;&emsp;&emsp;:closed_book: [Article](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fhow-to-pull-data-from-an-api-using-python-requests-edcc8d6441b1)<br>
          &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://rapidapi.com/blog/how-to-use-an-api-with-python/)<br>
-**4. Stats.**<br>
-         &emsp;&emsp;&emsp;:closed_book: [This stats - Book](https://b-ok.africa/book/2737548/7659e9)<br>
-         &emsp;&emsp;&emsp;:closed_book: [Think Bayes - Book](https://b-ok.africa/book/2737587/ab97d5)<br>
 
 
 **7. Feature Engineering**<br>
          &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.kaggle.com/learn/feature-engineering)<br>
          &emsp;&emsp;&emsp;:closed_book: [Article](https://www.medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Ffeature-engineering-for-machine-learning-3a5e293a5114)<br>
          &emsp;&emsp;&emsp;:closed_book: [Book](https://b-ok.cc/book/3583182/056a36)<br>
-**8. interpet Shapley-based explanations of ML models.**<br/>
-        &emsp;&emsp;&emsp;:closed_book: [SHAP](https://shap.readthedocs.io/en/latest/)<br/>
-        &emsp;&emsp;&emsp;:closed_book: [Kaggle ML explainability](https://www.kaggle.com/learn/machine-learning-explainability)<br/>
-<h4><i>After finishing this level apply to 2 or 3 good sized projects.</i></h4>
 
 
 
@@ -222,10 +215,7 @@ APIs <br>
 **5. Inferential Statistics** <br>
         &emsp;&emsp;&emsp;:video_camera: [Specialization, 2nd & 3rd courses](https://www.coursera.org/specializations/statistics-with-python)<br>
         &emsp;&emsp;&emsp;:video_camera: [course](https://www.coursera.org/learn/statistical-inferences)<br>
-**6. Bayesian Statistics**<br>
-        &emsp;&emsp;&emsp;:video_camera: [1 - From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics)<br>
-        &emsp;&emsp;&emsp;:video_camera: [2 - Techniques and Models](https://www.coursera.org/learn/mcmc-bayesian-statistics)<br>
-        &emsp;&emsp;&emsp;:video_camera: [3 - Mixture Models](https://www.coursera.org/learn/mixture-models)<br>
+
 **7. Model Deployment** <br>
         &emsp;&emsp;&emsp;:closed_book: [Flask tutorial](https://towardsdatascience.com/deploying-a-deep-learning-model-using-flask-3ec166ef59fb)<br>
         &emsp;&emsp;&emsp;:video_camera: [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment)<br>
@@ -235,10 +225,6 @@ APIs <br>
 
 **8. Probabilistic Graphical Models** <br>       
         &emsp;&emsp;&emsp;:video_camera: [Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)<br>
-***
-
-**Tasks and Projects will be added soon.** :hourglass_flowing_sand:	<br><br>
-***
 
 
 ## :beginner: Advanced Level 👇
@@ -250,8 +236,8 @@ APIs <br>
 &emsp;&emsp;&emsp;:closed_book: [Python for Data Analysis](https://www.pdfdrive.com/python-for-data-analysis-data-wrangling-with-pandas-numpy-and-ipython-e158189564.html)<br>
 &emsp;&emsp;&emsp;:closed_book: [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)<br>
 &emsp;&emsp;&emsp;:closed_book: [Head First Data Analysis](https://learning.oreilly.com/library/view/head-first-data/9780596806224/)<br>
-&emsp;&emsp;&emsp;:closed_book: []()<br>
-&emsp;&emsp;&emsp;:closed_book: []()<br>
+&emsp;&emsp;&emsp;:closed_book: [Think Stats: Exploratory Data Analysis (Second Edition)](https://b-ok.africa/book/2737548/7659e9)<br>
+&emsp;&emsp;&emsp;:closed_book: [Think Bayes: Bayesian Statistics in Python](https://b-ok.africa/book/2737587/ab97d5)<br>
 &emsp;&emsp;&emsp;:closed_book: []()<br>
 &emsp;&emsp;&emsp;:closed_book: []()<br>
 &emsp;&emsp;&emsp;:closed_book: []()<br>
