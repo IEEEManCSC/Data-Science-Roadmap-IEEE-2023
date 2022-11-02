@@ -135,17 +135,6 @@ Learning python will require time to reiterate several times to understand a con
 ## :beginner: Intermediate Level 👇
 
 
-
-
-
-
-
-### 8. Probability
-
-&emsp;&emsp;&emsp;:movie_camera: [Probability_khan_academy](https://www.khanacademy.org/math/statistics-probability/probability-library) <br>
-
-
-
 ### 9. Dashboards (Tableau & Power BI)
 &emsp;&emsp;&emsp;:movie_camera: [Tableau training](https://www.tableau.com/learn/training/20201)<br>
 &emsp;&emsp;&emsp;:movie_camera: [Tableau(datacamp)](https://learn.datacamp.com/courses/introduction-to-tableau)<br>
