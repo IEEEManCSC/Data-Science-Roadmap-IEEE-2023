@@ -77,6 +77,7 @@ Learning python will require time to reiterate several times to understand a con
 &emsp;&emsp;&emsp;:video_camera: [Intro to cs with python MIT](https://bit.ly/3hV3rqj)  <br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ)<br>
 &emsp;&emsp;&emsp;:closed_book: [Pdf](https://drive.google.com/file/d/1xhO5X5iGJeottX2dc2gNejQll0sTBgHz/view?usp=drivesdk)<br>
+&emsp;&emsp;&emsp;:closed_book: [Tutorial for regular expression](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)<br>
 
 ### 2. Descriptive Statistics
 &emsp;&emsp;&emsp;:video_camera: [Intro to descriptive statistics from Udacity](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)<br>
@@ -120,6 +121,8 @@ Learning python will require time to reiterate several times to understand a con
 &emsp;&emsp;&emsp;:video_camera: [Intro to seaborn (datacamp)](https://bit.ly/3KprvxE) <br>
 &emsp;&emsp;&emsp;:video_camera: [Intermediate in seaborn(datacamp)](https://app.datacamp.com/learn/courses/intermediate-data-visualization-with-seaborn ) <br>
 &emsp;&emsp;&emsp;:video_camera: [Seaborn Youtube](https://www.youtube.com/watch?v=vaf4ir8eT38&list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j&index=3)<br>
+&emsp;&emsp;&emsp;:video_camera: [Improving Your Data Visualizations(datacamp)](https://app.datacamp.com/learn/courses/improving-your-data-visualizations-in-python)<br>
+
 &emsp;&emsp;&emsp;:closed_book:  [Matplotlib Tutorial](https://matplotlib.org/stable/tutorials/index.html) <br> 
 &emsp;&emsp;&emsp;:closed_book: [How to ask good questions?](https://towardsdatascience.com/how-to-ask-good-questions-be41b517c1b)<br>
 &emsp;&emsp;&emsp;:closed_book:  [Kaggle Course with Seaborn](https://www.kaggle.com/learn/data-visualization)<br>
@@ -127,7 +130,6 @@ Learning python will require time to reiterate several times to understand a con
 ### 4. EDA
 &emsp;&emsp;&emsp;:video_camera: [EDA (datacamp)](https://bit.ly/3KChY6z ) <br>
 &emsp;&emsp;&emsp;:video_camera: [IBM-EDA for Machine Learning](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning) <br>
-&emsp;&emsp;&emsp;:video_camera: [EDA (datacamp)](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) <br> 
 
 
 ## :beginner: Intermediate Level 👇
@@ -165,38 +167,26 @@ Learning python will require time to reiterate several times to understand a con
 &emsp;&emsp;&emsp;:video_camera: [Git (session)](https://drive.google.com/drive/folders/14qy8O3XsKmaSGUfd5jGyFFoAcqcSCxoZ?usp=sharing) <br>
 
 
-### 6. SQL
-&emsp;&emsp;&emsp;:video_camera: [Intro to DB](https://app.datacamp.com/learn/courses/introduction-to-relational-databases-in-sql) <br> 
-&emsp;&emsp;&emsp;:video_camera: [datacamp](https://app.datacamp.com/learn/courses/introduction-to-sql) <br> 
+### 6. SQL and DB
+&emsp;&emsp;&emsp;:video_camera: [Intro to Relational Databases DB(datacamp)](https://app.datacamp.com/learn/courses/introduction-to-relational-databases-in-sql) <br> 
+&emsp;&emsp;&emsp;:video_camera: [Introduction to SQL(datacamp)](https://app.datacamp.com/learn/courses/introduction-to-sql) <br> 
+&emsp;&emsp;&emsp;:video_camera: [IBM](https://www.coursera.org/learn/sql-data-science)<br>
+&emsp;&emsp;&emsp;:video_camera: [Joining Data in SQL (datacamp)](https://www.datacamp.com/courses/joining-data-in-postgresql)<br>
 &emsp;&emsp;&emsp;:video_camera: [freeCodeCamp](https://youtu.be/HXV3zeQKqGY)<br>
-&emsp;&emsp;&emsp;:video_camera: [Arabic_course](https://youtu.be/B7evUQGmN6M)<br>
+&emsp;&emsp;&emsp;:video_camera: [Arabic_Course](https://youtu.be/B7evUQGmN6M)<br>
+&emsp;&emsp;&emsp;:pencil: Practice [SQLZOO practice & solution](https://github.com/codyloyd/sqlzoo-solutions/blob/master/SQLZOO_solutions.md#join)<br>
+&emsp;&emsp;&emsp;:pencil: Practice [HackerRank](https://www.hackerrank.com/domains/sql) & [DataLemur](https://datalemur.com/)
+&emsp;&emsp;&emsp;:video_camera: [More advanced SQL](https://www.coursera.org/lecture/data-driven-astronomy/more-advanced-sql-GDmo5)<br>
 
 
 ### 7. Time-Series:
-&emsp;&emsp;&emsp;:video_camera: [Time-Series](https://facebook.github.io/prophet/docs/quick_start.html
+&emsp;&emsp;&emsp;:video_camera: [Tutorial(fbprohet)](https://facebook.github.io/prophet/docs/quick_start.html
 )<br>
-
-**11. SQL and DB**<br>
-         &emsp;&emsp;&emsp;:video_camera: [Intro to SQL](https://learn.datacamp.com/courses/introduction-to-sql) **or** [IBM](https://www.coursera.org/learn/sql-data-science)<br>
-         &emsp;&emsp;&emsp;:video_camera: [Intro to Relational Databases in SQL](https://learn.datacamp.com/courses/introduction-to-relational-databases-in-sql)<br>
-         &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/watch?v=B7evUQGmN6M&list=PLfM2wZNebA2zROxUcAbGxNrpVZncsF3oD)<br>
-         &emsp;&emsp;&emsp;:video_camera: [Joining Data in SQL](https://www.datacamp.com/courses/joining-data-in-postgresql)<br>
-         &emsp;&emsp;&emsp;:pencil: Practice [HackerRank](https://www.hackerrank.com/domains/sql) & [DataLemur](https://datalemur.com/)
-
-**12. Python Regular Expression**<br>
-        &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)<br>
-**13. Time Series Analysis**<br>
-         &emsp;&emsp;&emsp;:video_camera: [Track](https://learn.datacamp.com/skill-tracks/time-series-with-python)<br>
-         &emsp;&emsp;&emsp;:closed_book: [Book](https://www.oreilly.com/library/view/practical-time-series/9781492041641/?fbclid=IwAR20cq7hAdWf6voOd61u-pNzZCHvB0rZhT_BUoGTAXxPBhhi82p8BhxLEsI)<br>
-         &emsp;&emsp;&emsp;:closed_book: [fbprohet](https://facebook.github.io/prophet/docs/quick_start.html)<br>
-         &emsp;&emsp;&emsp;:video_camera: Arabic Source [Video1](https://www.youtube.com/watch?v=TvhaHPq6xLU&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=1) & [Video2](https://www.youtube.com/watch?v=mipF7mRVpk0&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=2)<br>
+&emsp;&emsp;&emsp;:video_camera: [Time Series with Python(datacamp)](https://learn.datacamp.com/skill-tracks/time-series-with-python)<br>
+&emsp;&emsp;&emsp;:video_camera: [Arabic Course(Hesham Asem) ](https://www.youtube.com/watch?v=TvhaHPq6xLU&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=1)****[and](https://www.youtube.com/watch?v=mipF7mRVpk0&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=2)<br>
   
-<h4><i>At The end of Beginner phase apply all what you've learned on a project.</i></h4>
-
-***
 
 
-## :beginner: Intermediate :beginner:
 
 **1. Math for ML**: consists of Linear Algebra, Calculus and PCA. <br>
 :video_camera: [Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)<br>
@@ -239,9 +229,7 @@ APIs <br>
 **4. Stats.**<br>
          &emsp;&emsp;&emsp;:closed_book: [This stats - Book](https://b-ok.africa/book/2737548/7659e9)<br>
          &emsp;&emsp;&emsp;:closed_book: [Think Bayes - Book](https://b-ok.africa/book/2737587/ab97d5)<br>
-**5. Advanced SQL**<br>
-         &emsp;&emsp;&emsp;:video_camera: [More advanced SQL](https://www.coursera.org/lecture/data-driven-astronomy/more-advanced-sql-GDmo5)<br>
-         &emsp;&emsp;&emsp;:video_camera: [Joining Data in SQL](https://learn.datacamp.com/courses/joining-data-in-postgresql)<br>
+
 
 **7. Feature Engineering**<br>
          &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.kaggle.com/learn/feature-engineering)<br>
@@ -252,8 +240,7 @@ APIs <br>
         &emsp;&emsp;&emsp;:closed_book: [Kaggle ML explainability](https://www.kaggle.com/learn/machine-learning-explainability)<br/>
 <h4><i>After finishing this level apply to 2 or 3 good sized projects.</i></h4>
 
-<i>Read this book, please</i> :open_book: [Introduction to Statistical Learning with Applications in R](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/Introduction%20to%20Statistical%20Learning%20with%20Applications%20in%20R.pdf) بقولك اقرأه<br>
-***
+
 ## :beginner: Advanced :beginner:
 
 **1. Deep Learning** <br>
@@ -429,7 +416,7 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
 &emsp;&emsp;&emsp;:closed_book: [--->Practical Statistics for Data Scientists Book](https://eg1lib.org/book/5524607/1e8e36)<br>
 &emsp;&emsp;&emsp;:closed_book: [--->Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures](https://clauswilke.com/dataviz/)<br>
 &emsp;&emsp;&emsp;:closed_book: [--->Pro Git Official Book](https://git-scm.com/book/en/v2)<br>
-
+&emsp;&emsp;&emsp;:closed_book: [Time Series Analysis Book](https://www.oreilly.com/library/view/practical-time-series/9781492041641/?fbclid=IwAR20cq7hAdWf6voOd61u-pNzZCHvB0rZhT_BUoGTAXxPBhhi82p8BhxLEsI)<br>
 
 
 
