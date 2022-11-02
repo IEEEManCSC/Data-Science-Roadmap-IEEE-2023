@@ -201,10 +201,13 @@ Learning python will require time to reiterate several times to understand a con
 &emsp;&emsp;&emsp;:movie_camera: [Deep learning book](https://bit.ly/3I3lt49) <br>
 
 ### 8. Computer Vision
-&emsp;&emsp;&emsp;:movie_camera: [Computer Vision Stanford](https://stanford.io/3HZaJDJ) <br>
+&emsp;&emsp;&emsp;:movie_camera: [Stanford playlist](https://www.youtube.com/playlist?list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ) <br>
+&emsp;&emsp;&emsp;:movie_camera: [Stanford](https://stanford.io/3HZaJDJ) <br>
+
 
 ### 9. NLP
 &emsp;&emsp;&emsp;:movie_camera: [NLP Stanford](https://stanford.io/3pUcw76) <br>
+&emsp;&emsp;&emsp;:movie_camera: [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/) <br>
 &emsp;&emsp;&emsp;:movie_camera: [NLP Coursera specialization](https://bit.ly/3vXkU9M) <br> 
 
 ### 10. Spark
