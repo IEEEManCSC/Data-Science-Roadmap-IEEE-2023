@@ -154,6 +154,7 @@ Learning python will require time to reiterate several times to understand a con
 &emsp;&emsp;&emsp;:video_camera: [Tableau and visualizing (from google specialization)](https://www.coursera.org/learn/visualize-data?specialization=google-data-analytics) <br>
 &emsp;&emsp;&emsp;:closed_book:  [Tableau Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)<br>
 &emsp;&emsp;&emsp;:video_camera: [Power BI training](https://powerbi.microsoft.com/en-us/learning/)<br>
+&emsp;&emsp;&emsp;:video_camera: [Power BI (Coursera)](https://www.coursera.org/projects/power-bi-desktop)<br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic - Power BI](https://www.youtube.com/watch?v=ykvAWKML9Gk&list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)<br>
 &emsp;&emsp;&emsp;:video_camera: [Power BI (sessions)](https://drive.google.com/drive/folders/1gwxJtxsshN0pQHXzLhkl4Syw42Go11-n)<br>
 
@@ -167,8 +168,8 @@ Learning python will require time to reiterate several times to understand a con
 
 
 ### 11. SQL and DB
-&emsp;&emsp;&emsp;:video_camera: [Intro to Relational Databases DB(datacamp)](https://app.datacamp.com/learn/courses/introduction-to-relational-databases-in-sql) <br> 
 &emsp;&emsp;&emsp;:video_camera: [Introduction to SQL(datacamp)](https://app.datacamp.com/learn/courses/introduction-to-sql) <br> 
+&emsp;&emsp;&emsp;:video_camera: [Intro to Relational Databases DB(datacamp)](https://app.datacamp.com/learn/courses/introduction-to-relational-databases-in-sql) <br> 
 &emsp;&emsp;&emsp;:video_camera: [IBM](https://www.coursera.org/learn/sql-data-science)<br>
 &emsp;&emsp;&emsp;:video_camera: [Joining Data in SQL (datacamp)](https://www.datacamp.com/courses/joining-data-in-postgresql)<br>
 &emsp;&emsp;&emsp;:video_camera: [freeCodeCamp](https://youtu.be/HXV3zeQKqGY)<br>
@@ -177,7 +178,8 @@ Learning python will require time to reiterate several times to understand a con
 &emsp;&emsp;&emsp;:pencil: Practice [HackerRank](https://www.hackerrank.com/domains/sql)<br>
 &emsp;&emsp;&emsp;:pencil: Practice [SQL Cookbook by By Anthony Molinaro](https://learning.oreilly.com/library/view/sql-cookbook/0596009763/)<br>
 &emsp;&emsp;&emsp;:pencil: Practice [DataLemur](https://datalemur.com/)<br>
-&emsp;&emsp;&emsp;:video_camera: [More advanced SQL](https://www.coursera.org/lecture/data-driven-astronomy/more-advanced-sql-GDmo5)<br>
+&emsp;&emsp;&emsp;:video_camera: [Intermediate SQL (datacamp)](https://bit.ly/3J09xBx)<br>
+&emsp;&emsp;&emsp;:video_camera: [More advanced SQL(coursera)](https://www.coursera.org/lecture/data-driven-astronomy/more-advanced-sql-GDmo5)<br>
 
 
 ### 12. Time-Series:
@@ -186,30 +188,60 @@ Learning python will require time to reiterate several times to understand a con
 &emsp;&emsp;&emsp;:video_camera: [Time Series with Python(datacamp)](https://learn.datacamp.com/skill-tracks/time-series-with-python)<br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic Course(Hesham Asem)1](https://www.youtube.com/watch?v=TvhaHPq6xLU&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=1)**and**[2](https://www.youtube.com/watch?v=mipF7mRVpk0&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=2)<br>
 
-### 13. Web Scraping:
+### 13. Web Scraping & APIs:
 
-**3. Web Scraping/APIs**<br>
-         &emsp;&emsp;&emsp;:video_camera: [course](https://learn.datacamp.com/courses/web-scraping-with-python)<br>
-         &emsp;&emsp;&emsp;:closed_book: [intro2](https://www.dataquest.io/blog/web-scraping-tutorial-python/)<br>
-         &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://realpython.com/beautiful-soup-web-scraper-python/)<br>
-         &emsp;&emsp;&emsp;:closed_book: [Book for both topics](https://b-ok.africa/book/3515980/5d50aa)<br>
-APIs <br>
-         &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.dataquest.io/blog/python-api-tutorial/)<br>
-         &emsp;&emsp;&emsp;:closed_book: [Article](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fhow-to-pull-data-from-an-api-using-python-requests-edcc8d6441b1)<br>
-         &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://rapidapi.com/blog/how-to-use-an-api-with-python/)<br>
+         &emsp;&emsp;&emsp;:video_camera: [Intro to web scraping (datacamp)](https://bit.ly/3CuNyjE)<br>
+         &emsp;&emsp;&emsp;:video_camera: [Intermediate Importing Data (datacamp)](https://bit.ly/37kqrgi)<br>
+         &emsp;&emsp;&emsp;:closed_book: [Web Scraping with Python Using Beautiful Soup](https://www.dataquest.io/blog/web-scraping-tutorial-python/)<br>
+         &emsp;&emsp;&emsp;:closed_book: [Getting Started with APIs](https://www.dataquest.io/blog/python-api-tutorial/)<br>
+         &emsp;&emsp;&emsp;:closed_book: [Medium](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fhow-to-pull-data-from-an-api-using-python-requests-edcc8d6441b1)<br>
+         &emsp;&emsp;&emsp;:closed_book: [Rapidapi](https://rapidapi.com/blog/how-to-use-an-api-with-python/)<br>
+
+
+### 6. Machine Learning
+* Probability and linear algebra <br>
+&nbsp;[Probability (Khanacademy)](https://bit.ly/379gylk) <br> 
+&nbsp;[Probability MIT playlist]( https://bit.ly/3MFxaBC) <br> 
+&nbsp;[Linear algebra for ML Coursera specialization]( https://bit.ly/3pToX32) <br> 
+* Machine learning <br>
+&nbsp;[Machine learning andrew](https://bit.ly/3u5zfhV) <br>
+&nbsp;[Machine learning Udacity]( https://bit.ly/3J2j7Uu) <br>
+&nbsp;[Hands on ML 2nd edition book](https://drive.google.com/file/d/1tAoPyJfFOt6fzi2SFGJAJArPlIKWV5gd/view) <br>
+&nbsp;[Feature engineering book]( https://bit.ly/3vWNubo) <br>
+
+### 7. Deep Learning
+[Deep learning specialization Andrew](https://bit.ly/3I1c396) <br> 
+[Deep learning book](https://bit.ly/3I3lt49) <br>
+
+### 8. Computer Vision
+[Computer Vision Stanford](https://stanford.io/3HZaJDJ) <br>
+
+### 9. NLP
+[NLP Stanford](https://stanford.io/3pUcw76) <br>
+[NLP Coursera specialization](https://bit.ly/3vXkU9M) <br> 
+
+### 10. Spark
+[Spark (Udacity)](https://bit.ly/3sYKFUZ ) <br>
+
+### 11. Data Warehouse
+[Data Warehouse Concepts (Coursera)](https://www.coursera.org/learn/dwdesign) <br>
+
+
+
 
 
 **7. Feature Engineering**<br>
          &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.kaggle.com/learn/feature-engineering)<br>
          &emsp;&emsp;&emsp;:closed_book: [Article](https://www.medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Ffeature-engineering-for-machine-learning-3a5e293a5114)<br>
-         &emsp;&emsp;&emsp;:closed_book: [Book](https://b-ok.cc/book/3583182/056a36)<br>
 
 
 
 
 **5. Inferential Statistics** <br>
         &emsp;&emsp;&emsp;:video_camera: [Specialization, 2nd & 3rd courses](https://www.coursera.org/specializations/statistics-with-python)<br>
-        &emsp;&emsp;&emsp;:video_camera: [course](https://www.coursera.org/learn/statistical-inferences)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Coursera](https://www.coursera.org/learn/statistical-inferences)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Udacity](https://bit.ly/37a34FY)<br>
+
 
 **7. Model Deployment** <br>
         &emsp;&emsp;&emsp;:closed_book: [Flask tutorial](https://towardsdatascience.com/deploying-a-deep-learning-model-using-flask-3ec166ef59fb)<br>
@@ -233,6 +265,9 @@ APIs <br>
 &emsp;&emsp;&emsp;:closed_book: [Head First Data Analysis](https://learning.oreilly.com/library/view/head-first-data/9780596806224/)<br>
 &emsp;&emsp;&emsp;:closed_book: [Think Stats: Exploratory Data Analysis (Second Edition)](https://b-ok.africa/book/2737548/7659e9)<br>
 &emsp;&emsp;&emsp;:closed_book: [Think Bayes: Bayesian Statistics in Python](https://b-ok.africa/book/2737587/ab97d5)<br>
+&emsp;&emsp;&emsp;:closed_book: [Web Scraping with Python](https://b-ok.africa/book/3515980/5d50aa)<br>
+&emsp;&emsp;&emsp;:closed_book: [Feature Engineering for Machine Learning](https://b-ok.cc/book/3583182/056a36)<br>
+
 &emsp;&emsp;&emsp;:closed_book: []()<br>
 &emsp;&emsp;&emsp;:closed_book: []()<br>
 &emsp;&emsp;&emsp;:closed_book: []()<br>
