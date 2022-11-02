@@ -37,7 +37,7 @@
 [<h2>**Anaconda**</h2>](https://www.anaconda.com/products/distribution)Anaconda is a tool kit that fulfills all your necessities in writing and running code. From Powershell prompt to Jupyter Notebook and PyCharm, even R Studio (if interested to try R).
   * [A guide to install anaconda and run Jupyter Notebook.](https://www.youtube.com/watch?v=syijLJ3oQzU)
   * [A guide to deal with Jupyter Notebook.](https://www.youtube.com/watch?v=0nrjHslIvT4)
-  * [Conda Essentials(datacamp).](https://learn.datacamp.com/courses/conda-essentials)
+  * [Conda Essentials (datacamp).](https://learn.datacamp.com/courses/conda-essentials)
 
 ![a](https://user-images.githubusercontent.com/92026137/163717819-4689c927-6022-47da-b204-169693bfa397.png)
 
@@ -112,10 +112,10 @@ Learning python will require time to reiterate several times to understand a con
 &emsp;&emsp;&emsp;:video_camera: [ Course (datacamp)](https://www.datacamp.com/courses/cleaning-data-in-python)<br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic video](https://www.youtube.com/watch?v=Mrd56i_U6cM) but not enough<br/>
 &emsp;&emsp;&emsp;:closed_book:  [Kaggle Course](https://www.kaggle.com/learn/data-cleaning)<br>
-&emsp;&emsp;&emsp;:closed_book:  [Pandas 100 tricks](https://www.kaggle.com/code/shivan118/pandas-100-tricks)Note: it's already mentioned in pandas above<br>
+&emsp;&emsp;&emsp;:closed_book:  [Pandas 100 tricks](https://www.kaggle.com/code/shivan118/pandas-100-tricks) Note: it's already mentioned in pandas above<br>
 &emsp;&emsp;&emsp;:closed_book:  [Cleaning blog](https://bit.ly/3vXqybR ) <br>
 
-### 6. Data Visualization
+### 6. Data Visualization & EDA
 
 &emsp;&emsp;&emsp;:video_camera: [Ask Questions (from google specialization)](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=google-data-analytics) <br>
 &emsp;&emsp;&emsp;:video_camera: [Understanding and Visualizing with Python](https://www.coursera.org/learn/understanding-visualization-data)<br>
@@ -129,9 +129,6 @@ Learning python will require time to reiterate several times to understand a con
 &emsp;&emsp;&emsp;:closed_book:  [Matplotlib Tutorial](https://matplotlib.org/stable/tutorials/index.html) <br> 
 &emsp;&emsp;&emsp;:closed_book: [How to ask good questions?](https://towardsdatascience.com/how-to-ask-good-questions-be41b517c1b)<br>
 &emsp;&emsp;&emsp;:closed_book:  [Kaggle Course with Seaborn](https://www.kaggle.com/learn/data-visualization)<br>
-
-### 7. EDA
-
 &emsp;&emsp;&emsp;:video_camera: [EDA (datacamp)](https://bit.ly/3KChY6z ) <br>
 &emsp;&emsp;&emsp;:video_camera: [IBM-EDA for Machine Learning](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning) <br>
 
@@ -156,8 +153,6 @@ Learning python will require time to reiterate several times to understand a con
 &emsp;&emsp;&emsp;:video_camera: [Tableau (udacity)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 ) <br> 
 &emsp;&emsp;&emsp;:video_camera: [Tableau and visualizing (from google specialization)](https://www.coursera.org/learn/visualize-data?specialization=google-data-analytics) <br>
 &emsp;&emsp;&emsp;:closed_book:  [Tableau Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)<br>
-
-
 &emsp;&emsp;&emsp;:video_camera: [Power BI training](https://powerbi.microsoft.com/en-us/learning/)<br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic - Power BI](https://www.youtube.com/watch?v=ykvAWKML9Gk&list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)<br>
 &emsp;&emsp;&emsp;:video_camera: [Power BI (sessions)](https://drive.google.com/drive/folders/1gwxJtxsshN0pQHXzLhkl4Syw42Go11-n)<br>
@@ -168,7 +163,7 @@ Learning python will require time to reiterate several times to understand a con
 &emsp;&emsp;&emsp;:video_camera: [Udacity course](https://classroom.udacity.com/courses/ud123)<br>
 &emsp;&emsp;&emsp;:video_camera: [Git Tutorial for Absolute Beginners from Zero to Hero](https://youtube.com/playlist?list=PLJGDHERh23x_4MDp0m4Arswm5VErr3tbl)<br>
 &emsp;&emsp;&emsp;:video_camera: [Git (session)](https://drive.google.com/drive/folders/14qy8O3XsKmaSGUfd5jGyFFoAcqcSCxoZ?usp=sharing) <br>
-&emsp;&emsp;&emsp;:video_camera: [Arabic - Youtube](https://www.youtube.com/watch?v=Q6G-J54vgKc)<br>
+&emsp;&emsp;&emsp;:video_camera: [Arabic Youtube](https://www.youtube.com/watch?v=Q6G-J54vgKc)<br>
 
 
 ### 11. SQL and DB
@@ -189,7 +184,7 @@ Learning python will require time to reiterate several times to understand a con
 &emsp;&emsp;&emsp;:video_camera: [Tutorial(fbprohet)](https://facebook.github.io/prophet/docs/quick_start.html
 )<br>
 &emsp;&emsp;&emsp;:video_camera: [Time Series with Python(datacamp)](https://learn.datacamp.com/skill-tracks/time-series-with-python)<br>
-&emsp;&emsp;&emsp;:video_camera: [Arabic Course(Hesham Asem) ](https://www.youtube.com/watch?v=TvhaHPq6xLU&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=1)****[and](https://www.youtube.com/watch?v=mipF7mRVpk0&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=2)<br>
+&emsp;&emsp;&emsp;:video_camera: [Arabic Course(Hesham Asem)1](https://www.youtube.com/watch?v=TvhaHPq6xLU&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=1)**and**[2](https://www.youtube.com/watch?v=mipF7mRVpk0&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=2)<br>
 
 ### 13. Web Scraping:
 
