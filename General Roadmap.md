@@ -54,219 +54,55 @@
  * [A guide to install and use VScode](https://www.youtube.com/watch?v=kE_FzZk3jGo)
  * [Running Jupyter Notebook from VScode](https://www.youtube.com/watch?v=h1sAzPojKMg) 
 
-[<h2>**Atom**</h2>](https://atom.io/packages/ide-python)A more advanced Python interface, highly recommended by experts.
- * [A guide to install atom with python](https://www.youtube.com/watch?v=Ei-G0fEOu9I)
-  
-[<h2>**Thonny**</h2>](https://thonny.org/)Thonny is an IDE for teaching and learning programming. Thonny is equipped with a debugger, and supports code completion, and highlights syntax errors.</detals>
-Most learning platforms have integrated code exercises where you don’t need to install anything locally. But to learn it right, you should have an IDE installed on your local machine.
- * [A guide to install Thonny](https://www.youtube.com/watch?v=MT_LJAzvExM)
 
 <br/> </details>
 
 
-## :beginner: Beginner Level 👇
+## 🔰 Beginner Level 👇
 
-
-### 1. Python
 > I will recommend `Python`, although you may encounter `R` in more Data Analytics related jobs. Python mastery will come with time - learn enough basics to be able
 >  to read code and implement.
 Learning python will require time to reiterate several times to understand a concept, & trust me it's totally worth it. As said learning Data science requires time and learning the hard way rather than shortcuts which will make you nowhere. So, don't get demotivated if you're not able to understand a concept, just keep trying and you'll get it. <br>
 
-&emsp;&emsp;&emsp;:movie_camera: [Introduction To Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)<br>
-&emsp;&emsp;&emsp;:movie_camera: [BeginnerPython (Corey Schafer)](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) <br>
-&emsp;&emsp;&emsp;:movie_camera: [Intermediate Python (Corey Schafer)](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) <br>
-&emsp;&emsp;&emsp;:movie_camera: [Intro to cs with python MIT](https://bit.ly/3hV3rqj)  <br>
-&emsp;&emsp;&emsp;:movie_camera: [Arabic Course](https://youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ)<br>
-&emsp;&emsp;&emsp;:closed_book:  [Pdf](https://drive.google.com/file/d/1xhO5X5iGJeottX2dc2gNejQll0sTBgHz/view?usp=drivesdk)<br>
-&emsp;&emsp;&emsp;:closed_book:  [Tutorial for regular expression](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)<br>
 
-### 2. Descriptive Statistics
-&emsp;&emsp;&emsp;:movie_camera: [Intro to descriptive statistics from Udacity](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)<br>
-&emsp;&emsp;&emsp;:movie_camera: [YouTube playlist](https://www.youtube.com/playlist?list=PLTNMv857s9WVStKLco6ZBOsfSGXzJ1L0f)<br>
-&emsp;&emsp;&emsp;:movie_camera: [Arabic Course 1](https://youtu.be/NyCqaxLW3p8)<br>
-&emsp;&emsp;&emsp;:movie_camera: [Arabic Course 2](https://www.youtube.com/playlist?list=PLu1nnZ4q7vDHfhYtBLjxrAhh5IYX0v4KO)<br>
-&emsp;&emsp;&emsp;:movie_camera: [Statistics Fundamentals StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)<br>
-&emsp;&emsp;&emsp;:closed_book:  [Pdf](https://drive.google.com/file/d/1C4RMwG5HphNAHgYjzif7N_7Eb_w_IDAn/view?usp=sharing)<br>
+| Topics                              | Resources & Links                                                                                                             |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------|
+| &emsp;&emsp;&emsp;**1.Intro To Python✨**                      | 🎥[Udacity](https://www.udacity.com/course/introduction-to-python--ud1110)<br> 🎥[Corey Schafer](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) <br> 🎥[Arabic Course](https://youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ) <br>[📑Pdf ](https://drive.google.com/file/d/1xhO5X5iGJeottX2dc2gNejQll0sTBgHz/view?usp=drivesdk)               |
+| Intermediate Python                 | 🎥[Corey Schafer](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)                       |
+| Advanced Python                     | 🎥[Durga Sir](https://www.youtube.com/watch?v=es457q7n3P8&list=PLd3UqWTnYXOkzPunQOObl4m_7i6aOIoQD)                           |
+| Intro to cs with python | 🎥[MIT](https://bit.ly/3hV3rqj)                    |
+| Data Structures and Algorithms      | 📑[Data Structures and Algorithms BOOK](http://xpzhang.me/teach/DS19_Fall/book.pdf)<br> 🎥[Introduction to Algorithms(MIT)](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)  |
+| Regular Expression                     | 📑[Tutorial](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)                     |
+| &emsp;**2. Descriptive Statistics 📊**                          | 🎥[Udacity](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) <br> 🎥[YouTube playlist](https://www.youtube.com/playlist?list=PLTNMv857s9WVStKLco6ZBOsfSGXzJ1L0f) <br> 🎥[Arabic Course 1](https://youtu.be/NyCqaxLW3p8) <br> 🎥[Arabic Course 2](https://www.youtube.com/playlist?list=PLu1nnZ4q7vDHfhYtBLjxrAhh5IYX0v4KO) <br> 🎥[Statistics Fundamentals StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9) <br> 📑[Pdf](https://drive.google.com/file/d/1C4RMwG5HphNAHgYjzif7N_7Eb_w_IDAn/view?usp=sharing) |
+| &emsp;&emsp;&emsp;&emsp;**3. Analysis**<br>&emsp;&emsp;&emsp;&emsp;**🔹Pandas 🐼**|🎥[Corey Schafer](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) <br> 🎥[Arabic Course](https://www.youtube.com/watch?v=3ISW655DemU&list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F) <br> 🎥[Google Course(Data Analysis)](https://bit.ly/3pR0480) <br> 📑[Kaggle Course](https://www.kaggle.com/learn/pandas)<br>📑[Kaggle Pandas 100 tricks](https://www.kaggle.com/code/shivan118/pandas-100-tricks) <br> 📑[Pandas user Guide](https://pandas.pydata.org/docs/user_guide/index.html#user-guide) <br> 📑[Getting started with Pandas](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html) | 
+| &emsp;&emsp;&emsp;&emsp;**🔹Numpy 🔢**  | 🎥[YouTube freeCodeCamp](https://www.youtube.com/watch?v=QUT1VHiLmmI) <br> 🎥[Arabic Course](https://www.youtube.com/watch?v=5-5CrLmf2vk&list=PLIA_seGogbkGDYq-dnVCsELEIq_7HK7Ca) <br> 📑[Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science)<br>📑[Tutorial](http://cs231n.github.io/python-numpy-tutorial/) <br> 📑[Numpy DOC](https://numpy.org/learn/) |
+| &emsp;&emsp;&emsp;**🔹Data Cleaning 🧹 <br>&emsp;&emsp;&emsp;&emsp;[(👉🏻Click👈🏻)](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)**|  🎥[Datacamp](https://www.datacamp.com/courses/cleaning-data-in-python) <br> 🎥[Arabic video](https://www.youtube.com/watch?v=Mrd56i_U6cM) **Not enough** <br>📑[Kaggle Course](https://www.kaggle.com/learn/data-cleaning) <br> 📑[Pandas 100 tricks](https://www.kaggle.com/code/shivan118/pandas-100-tricks) **Already mentioned in pandas** <br> 📑[Cleaning Blog](https://bit.ly/3vXqybR) |
+|&emsp;**🔹Data Visualization & EDA 📉**| 🎥[Ask Questions (from google specialization)](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=google-data-analytics) <br> 🎥[Understanding and Visualizing with Python](https://www.coursera.org/learn/understanding-visualization-data)<br> 🎥[Matplotlib (datacamp)](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib) <br> 🎥[Corey Schafer - Matplotlib](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)<br>🎥[Matplotlib sentdex](https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF)<br> 🎥[Intro to seaborn (datacamp)](https://bit.ly/3KprvxE) <br>🎥[Intermediate in seaborn(datacamp)](https://app.datacamp.com/learn/courses/intermediate-data-visualization-with-seaborn ) <br> 🎥 [Seaborn Youtube](https://www.youtube.com/watch?v=vaf4ir8eT38&list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j&index=3)<br>🎥[Improving Your Data Visualizations(datacamp)](https://app.datacamp.com/learn/courses/improving-your-data-visualizations-in-python)<br>🎥[EDA (datacamp)](https://bit.ly/3KChY6z ) <br>📑[Matplotlib Tutorial](https://matplotlib.org/stable/tutorials/index.html) <br>📑[How to ask good questions?](https://towardsdatascience.com/how-to-ask-good-questions-be41b517c1b)<br>📑[Kaggle Course with Seaborn](https://www.kaggle.com/learn/data-visualization)<br>|
+| &emsp;&emsp;&emsp;**🔹Dashboards**<br>&emsp;&emsp;**(Tableau & Power BI)🗺️**|🎥[Tableau training](https://www.tableau.com/learn/training/20201)<br>🎥[Tableau(datacamp)](https://learn.datacamp.com/courses/introduction-to-tableau)<br>🎥[Data Visualization with Tableau Specialization](https://www.coursera.org/specializations/data-visualization)<br>🎥[Tableau (udacity)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 )<br>🎥[Tableau and visualizing (from google specialization)](https://www.coursera.org/learn/visualize-data?specialization=google-data-analytics)<br>📑[Tableau Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)<br>🎥[Power BI training](https://powerbi.microsoft.com/en-us/learning/)<br>🎥[Power BI (Coursera)](https://www.coursera.org/projects/power-bi-desktop)<br>🎥[Arabic - Power BI](https://www.youtube.com/watch?v=ykvAWKML9Gk&list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)<br>🎥[Tableau & Power BI(sessions)](https://drive.google.com/drive/folders/1gwxJtxsshN0pQHXzLhkl4Syw42Go11-n)<br>|
+| &emsp;&emsp;&emsp;&emsp;**🔹SQL & DB**|🎥[Introduction to SQL(datacamp)](https://app.datacamp.com/learn/courses/introduction-to-sql) <br> 🎥[Intro to Relational Databases DB(datacamp)](https://app.datacamp.com/learn/courses/introduction-to-relational-databases-in-sql) <br> 🎥[Databases and SQL for Data IBM](https://www.coursera.org/learn/sql-data-science)<br>🎥[Joining Data in SQL (datacamp)](https://www.datacamp.com/courses/joining-data-in-postgresql)<br>🎥[freeCodeCamp](https://youtu.be/HXV3zeQKqGY)<br>🎥[Arabic_Course](https://youtu.be/B7evUQGmN6M)<br>🎥[Intermediate SQL (datacamp)](https://bit.ly/3J09xBx)<br>🎥[More advanced SQL(coursera)](https://www.coursera.org/lecture/data-driven-astronomy/more-advanced-sql-GDmo5)<br>📝 Practice [SQLZOO practice & solution](https://github.com/codyloyd/sqlzoo-solutions/blob/master/SQLZOO_solutions.md#join)<br>📝 Practice [HackerRank](https://www.hackerrank.com/domains/sql)<br>📝 Practice [SQL Cookbook By Anthony Molinaro](https://learning.oreilly.com/library/view/sql-cookbook/0596009763/)<br>📝 Practice [DataLemur](https://datalemur.com/)<br>|
 
+## 🔰 Intermediate Level 👇
 
-### 3. Pandas
-&emsp;&emsp;&emsp;:movie_camera: [Corey playlist-Youtube](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)<br>
-&emsp;&emsp;&emsp;:movie_camera: [Playlist-Youtube](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1)<br>
-&emsp;&emsp;&emsp;:movie_camera: [Arabic Course](https://www.youtube.com/watch?v=3ISW655DemU&list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F)<br>
-&emsp;&emsp;&emsp;:movie_camera: [Google Course(Data Analysis)](https://bit.ly/3pR0480) <br>
-&emsp;&emsp;&emsp;:closed_book:  [Kaggle Course](https://www.kaggle.com/learn/pandas)<br>
-&emsp;&emsp;&emsp;:closed_book:  [Kaggle Pandas 100 tricks](https://www.kaggle.com/code/shivan118/pandas-100-tricks)<br>
-&emsp;&emsp;&emsp;:closed_book:  [Pandas user Guide](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)<br>
-&emsp;&emsp;&emsp;:closed_book:  [ Getting started with Pandas](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html)<br>
+| Topics                              | Resources & Links                                                                                                             |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------|
+| &emsp;&emsp;&emsp;&emsp;&emsp;**1.Git**|🎥[Udacity course](https://classroom.udacity.com/courses/ud123)<br>📑[Git Tutorial for Absolute Beginners from Zero to Hero](https://youtube.com/playlist?list=PLJGDHERh23x_4MDp0m4Arswm5VErr3tbl)<br>🎥[Git (session)](https://drive.google.com/drive/folders/14qy8O3XsKmaSGUfd5jGyFFoAcqcSCxoZ?usp=sharing) <br>🎥[Arabic Youtube](https://www.youtube.com/watch?v=Q6G-J54vgKc)<br>|
+|&emsp;&emsp;**2. Web Scraping & APIs**|🎥[Intro to web scraping (datacamp)](https://bit.ly/3CuNyjE)<br>🎥[Intermediate Importing Data (datacamp)](https://bit.ly/37kqrgi)<br>📑[Web Scraping with Python Using Beautiful Soup](https://www.dataquest.io/blog/web-scraping-tutorial-python/)<br>📑[Getting Started with APIs](https://www.dataquest.io/blog/python-api-tutorial/)<br>📑[Medium](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fhow-to-pull-data-from-an-api-using-python-requests-edcc8d6441b1)<br>📑[Rapidapi](https://rapidapi.com/blog/how-to-use-an-api-with-python/)<br>|
+| &emsp;&emsp;**3. Machine Learning**|* Probability and linear algebra <br>🎥[Probability (Khanacademy)](https://bit.ly/379gylk) <br> 🎥[Probability MIT playlist]( https://bit.ly/3MFxaBC) <br> 🎥[Linear algebra for ML Coursera specialization]( https://bit.ly/3pToX32) <br> * Machine learning <br>🎥[Machine learning andrew](https://bit.ly/3u5zfhV) <br>🎥[Machine learning Udacity]( https://bit.ly/3J2j7Uu) <br>🎥[Machine learning IBM](https://www.coursera.org/learn/machine-learning-with-python?specialization=ai-engineer&fbclid=IwAR35JlCKXk3OdCYVRFnK_pRXmiko5CHO7lKk5rLld8M3A9McbtIVPDn6AFs)<br>📕[Hands on ML 2nd edition book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975)<br>📕[Feature engineering book](https://bit.ly/3vWNubo)<br>|
+|**6.Time-Series**|📑[Tutorial(fbprohet)](https://facebook.github.io/prophet/docs/quick_start.html)<br>🎥[Time Series with Python(datacamp)](https://learn.datacamp.com/skill-tracks/time-series-with-python)<br>🎥[Arabic Course(Hesham Asem)1](https://www.youtube.com/watch?v=TvhaHPq6xLU&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=1)<br>|
 
+## 🔰 Advanced Level 👇
 
-### 4. Numpy 
-
-&emsp;&emsp;&emsp;:movie_camera: [YouTube freeCodeCamp](https://www.youtube.com/watch?v=QUT1VHiLmmI)<br>
-&emsp;&emsp;&emsp;:movie_camera: [Arabic Course](https://www.youtube.com/watch?v=5-5CrLmf2vk&list=PLIA_seGogbkGDYq-dnVCsELEIq_7HK7Ca)<br>
-&emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science)<br>
-&emsp;&emsp;&emsp;:closed_book: [Tutorial](http://cs231n.github.io/python-numpy-tutorial/)<br>
-&emsp;&emsp;&emsp;:closed_book: [Numpy DOC](https://numpy.org/learn/) <br>
-
-### 5. Data Cleaning [(👉🏻Click👈🏻)](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)<br> 
-&emsp;&emsp;&emsp;:movie_camera: [ Course (datacamp)](https://www.datacamp.com/courses/cleaning-data-in-python)<br>
-&emsp;&emsp;&emsp;:movie_camera: [Arabic video](https://www.youtube.com/watch?v=Mrd56i_U6cM) but not enough<br/>
-&emsp;&emsp;&emsp;:closed_book:  [Kaggle Course](https://www.kaggle.com/learn/data-cleaning)<br>
-&emsp;&emsp;&emsp;:closed_book:  [Pandas 100 tricks](https://www.kaggle.com/code/shivan118/pandas-100-tricks) Note: it's already mentioned in pandas above<br>
-&emsp;&emsp;&emsp;:closed_book:  [Cleaning blog](https://bit.ly/3vXqybR ) <br>
-
-### 6. Data Visualization & EDA
-
-&emsp;&emsp;&emsp;:movie_camera: [Ask Questions (from google specialization)](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=google-data-analytics) <br>
-&emsp;&emsp;&emsp;:movie_camera: [Understanding and Visualizing with Python](https://www.coursera.org/learn/understanding-visualization-data)<br>
-&emsp;&emsp;&emsp;:movie_camera: [Matplotlib (datacamp)](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib) <br> 
-&emsp;&emsp;&emsp;:movie_camera: [Corey Schafer - Matplotlib](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)<br>
-&emsp;&emsp;&emsp;:movie_camera: [Matplotlib sentdex](https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF)<br>
-&emsp;&emsp;&emsp;:movie_camera: [Intro to seaborn (datacamp)](https://bit.ly/3KprvxE) <br>
-&emsp;&emsp;&emsp;:movie_camera: [Intermediate in seaborn(datacamp)](https://app.datacamp.com/learn/courses/intermediate-data-visualization-with-seaborn ) <br>
-&emsp;&emsp;&emsp;:movie_camera: [Seaborn Youtube](https://www.youtube.com/watch?v=vaf4ir8eT38&list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j&index=3)<br>
-&emsp;&emsp;&emsp;:movie_camera: [Improving Your Data Visualizations(datacamp)](https://app.datacamp.com/learn/courses/improving-your-data-visualizations-in-python)<br>
-&emsp;&emsp;&emsp;:closed_book:  [Matplotlib Tutorial](https://matplotlib.org/stable/tutorials/index.html) <br> 
-&emsp;&emsp;&emsp;:closed_book: [How to ask good questions?](https://towardsdatascience.com/how-to-ask-good-questions-be41b517c1b)<br>
-&emsp;&emsp;&emsp;:closed_book:  [Kaggle Course with Seaborn](https://www.kaggle.com/learn/data-visualization)<br>
-&emsp;&emsp;&emsp;:movie_camera: [EDA (datacamp)](https://bit.ly/3KChY6z ) <br>
-&emsp;&emsp;&emsp;:movie_camera: [IBM-EDA for Machine Learning](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning) <br>
-
-## :beginner: Intermediate Level 👇
-
-
-### 9. Dashboards (Tableau & Power BI)
-&emsp;&emsp;&emsp;:movie_camera: [Tableau training](https://www.tableau.com/learn/training/20201)<br>
-&emsp;&emsp;&emsp;:movie_camera: [Tableau(datacamp)](https://learn.datacamp.com/courses/introduction-to-tableau)<br>
-&emsp;&emsp;&emsp;:movie_camera: [Data Visualization with Tableau Specialization](https://www.coursera.org/specializations/data-visualization)<br>
-&emsp;&emsp;&emsp;:movie_camera: [Tableau (udacity)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 ) <br> 
-&emsp;&emsp;&emsp;:movie_camera: [Tableau and visualizing (from google specialization)](https://www.coursera.org/learn/visualize-data?specialization=google-data-analytics) <br>
-&emsp;&emsp;&emsp;:closed_book:  [Tableau Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)<br>
-&emsp;&emsp;&emsp;:movie_camera: [Power BI training](https://powerbi.microsoft.com/en-us/learning/)<br>
-&emsp;&emsp;&emsp;:movie_camera: [Power BI (Coursera)](https://www.coursera.org/projects/power-bi-desktop)<br>
-&emsp;&emsp;&emsp;:movie_camera: [Arabic - Power BI](https://www.youtube.com/watch?v=ykvAWKML9Gk&list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)<br>
-&emsp;&emsp;&emsp;:movie_camera: [Power BI (sessions)](https://drive.google.com/drive/folders/1gwxJtxsshN0pQHXzLhkl4Syw42Go11-n)<br>
-
-
-### 10. Git
-
-&emsp;&emsp;&emsp;:movie_camera: [Udacity course](https://classroom.udacity.com/courses/ud123)<br>
-&emsp;&emsp;&emsp;:movie_camera: [Git Tutorial for Absolute Beginners from Zero to Hero](https://youtube.com/playlist?list=PLJGDHERh23x_4MDp0m4Arswm5VErr3tbl)<br>
-&emsp;&emsp;&emsp;:movie_camera: [Git (session)](https://drive.google.com/drive/folders/14qy8O3XsKmaSGUfd5jGyFFoAcqcSCxoZ?usp=sharing) <br>
-&emsp;&emsp;&emsp;:movie_camera: [Arabic Youtube](https://www.youtube.com/watch?v=Q6G-J54vgKc)<br>
-
-
-### 11. SQL and DB
-&emsp;&emsp;&emsp;:movie_camera: [Introduction to SQL(datacamp)](https://app.datacamp.com/learn/courses/introduction-to-sql) <br> 
-&emsp;&emsp;&emsp;:movie_camera: [Intro to Relational Databases DB(datacamp)](https://app.datacamp.com/learn/courses/introduction-to-relational-databases-in-sql) <br> 
-&emsp;&emsp;&emsp;:movie_camera: [IBM](https://www.coursera.org/learn/sql-data-science)<br>
-&emsp;&emsp;&emsp;:movie_camera: [Joining Data in SQL (datacamp)](https://www.datacamp.com/courses/joining-data-in-postgresql)<br>
-&emsp;&emsp;&emsp;:movie_camera: [freeCodeCamp](https://youtu.be/HXV3zeQKqGY)<br>
-&emsp;&emsp;&emsp;:movie_camera: [Arabic_Course](https://youtu.be/B7evUQGmN6M)<br>
-&emsp;&emsp;&emsp;:pencil: Practice [SQLZOO practice & solution](https://github.com/codyloyd/sqlzoo-solutions/blob/master/SQLZOO_solutions.md#join)<br>
-&emsp;&emsp;&emsp;:pencil: Practice [HackerRank](https://www.hackerrank.com/domains/sql)<br>
-&emsp;&emsp;&emsp;:pencil: Practice [SQL Cookbook by By Anthony Molinaro](https://learning.oreilly.com/library/view/sql-cookbook/0596009763/)<br>
-&emsp;&emsp;&emsp;:pencil: Practice [DataLemur](https://datalemur.com/)<br>
-&emsp;&emsp;&emsp;:movie_camera: [Intermediate SQL (datacamp)](https://bit.ly/3J09xBx)<br>
-&emsp;&emsp;&emsp;:movie_camera: [More advanced SQL(coursera)](https://www.coursera.org/lecture/data-driven-astronomy/more-advanced-sql-GDmo5)<br>
-
-
-### 12. Time-Series:
-&emsp;&emsp;&emsp;:movie_camera: [Tutorial(fbprohet)](https://facebook.github.io/prophet/docs/quick_start.html
-)<br>
-&emsp;&emsp;&emsp;:movie_camera: [Time Series with Python(datacamp)](https://learn.datacamp.com/skill-tracks/time-series-with-python)<br>
-&emsp;&emsp;&emsp;:movie_camera: [Arabic Course(Hesham Asem)1](https://www.youtube.com/watch?v=TvhaHPq6xLU&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=1)**and**[2](https://www.youtube.com/watch?v=mipF7mRVpk0&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=2)<br>
-
-### 13. Web Scraping & APIs:
-
-&emsp;&emsp;&emsp;:movie_camera: [Intro to web scraping (datacamp)](https://bit.ly/3CuNyjE)<br>
-&emsp;&emsp;&emsp;:movie_camera: [Intermediate Importing Data (datacamp)](https://bit.ly/37kqrgi)<br>
-&emsp;&emsp;&emsp;:closed_book: [Web Scraping with Python Using Beautiful Soup](https://www.dataquest.io/blog/web-scraping-tutorial-python/)<br>
-&emsp;&emsp;&emsp;:closed_book: [Getting Started with APIs](https://www.dataquest.io/blog/python-api-tutorial/)<br>
-&emsp;&emsp;&emsp;:closed_book: [Medium](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fhow-to-pull-data-from-an-api-using-python-requests-edcc8d6441b1)<br>
-&emsp;&emsp;&emsp;:closed_book: [Rapidapi](https://rapidapi.com/blog/how-to-use-an-api-with-python/)<br>
-
-
-### 14. Machine Learning
-* Probability and linear algebra <br>
-&emsp;&emsp;&emsp;:movie_camera: [Probability (Khanacademy)](https://bit.ly/379gylk) <br> 
-&emsp;&emsp;&emsp;:movie_camera: [Probability MIT playlist]( https://bit.ly/3MFxaBC) <br> 
-&emsp;&emsp;&emsp;:movie_camera: [Linear algebra for ML Coursera specialization]( https://bit.ly/3pToX32) <br> 
-* Machine learning <br>
-&emsp;&emsp;&emsp;:movie_camera: [Machine learning andrew](https://bit.ly/3u5zfhV) <br>
-&emsp;&emsp;&emsp;:movie_camera: [Machine learning Udacity]( https://bit.ly/3J2j7Uu) <br>
-
-### 7. Deep Learning
-&emsp;&emsp;&emsp;:movie_camera: [Deep learning specialization Andrew](https://bit.ly/3I1c396) <br> 
-&emsp;&emsp;&emsp;:movie_camera: [Deep learning book](https://bit.ly/3I3lt49) <br>
-
-### 8. Computer Vision
-&emsp;&emsp;&emsp;:movie_camera: [Stanford playlist](https://www.youtube.com/playlist?list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ) <br>
-&emsp;&emsp;&emsp;:movie_camera: [Stanford](https://stanford.io/3HZaJDJ) <br>
-
-
-### 9. NLP
-&emsp;&emsp;&emsp;:movie_camera: [NLP Stanford](https://stanford.io/3pUcw76) <br>
-&emsp;&emsp;&emsp;:movie_camera: [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/) <br>
-&emsp;&emsp;&emsp;:movie_camera: [NLP Coursera specialization](https://bit.ly/3vXkU9M) <br> 
-
-### 10. Spark
-&emsp;&emsp;&emsp;:movie_camera: [Spark (Udacity)](https://bit.ly/3sYKFUZ ) <br>
-
-### 11. Data Warehouse
-&emsp;&emsp;&emsp;:movie_camera: [Data Warehouse Concepts (Coursera)](https://www.coursera.org/learn/dwdesign) <br>
-
-
-
-
-
-### 7. Feature Engineering
-&emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.kaggle.com/learn/feature-engineering)<br>
-&emsp;&emsp;&emsp;:closed_book: [Article](https://www.medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Ffeature-engineering-for-machine-learning-3a5e293a5114)<br>
-
-
-
-
-**5. Inferential Statistics** <br>
-        &emsp;&emsp;&emsp;:movie_camera: [Specialization, 2nd & 3rd courses](https://www.coursera.org/specializations/statistics-with-python)<br>
-        &emsp;&emsp;&emsp;:movie_camera: [Coursera](https://www.coursera.org/learn/statistical-inferences)<br>
-        &emsp;&emsp;&emsp;:movie_camera: [Udacity](https://bit.ly/37a34FY)<br>
-
-
-**7. Model Deployment** <br>
-        &emsp;&emsp;&emsp;:closed_book: [Flask tutorial](https://towardsdatascience.com/deploying-a-deep-learning-model-using-flask-3ec166ef59fb)<br>
-        &emsp;&emsp;&emsp;:movie_camera: [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment)<br>
-        &emsp;&emsp;&emsp;:movie_camera: [Deploy Models with TensorFlow Serving and Flask](https://www.coursera.org/projects/deploy-models-tensorflow-serving-flask)<br>
-        &emsp;&emsp;&emsp;:video_camera: [How to Deploy a Machine Learning Model to Google Cloud - Daniel Bourke](https://www.youtube.com/watch?v=fw6NMQrYc6w)<br>
-        &emsp;&emsp;&emsp;if you`re intersted in more deployment methods, search for (_FastAPI - Heroku - chitra_)<br>
-
-**8. Probabilistic Graphical Models** <br>       
-        &emsp;&emsp;&emsp;:video_camera: [Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)<br>
-
-
-## :beginner: Advanced Level 👇
-
-
-
-&emsp;&emsp;&emsp;:closed_book: [SQL for Data Analysis Cathy Tanimura](https://learning.oreilly.com/library/view/sql-for-data/9781492088776/)<br>
-&emsp;&emsp;&emsp;:closed_book: [Learning SQL, 3rd Edition](https://learning.oreilly.com/library/view/learning-sql-3rd/9781492057604/)<br>
-&emsp;&emsp;&emsp;:closed_book: [Python for Data Analysis](https://www.pdfdrive.com/python-for-data-analysis-data-wrangling-with-pandas-numpy-and-ipython-e158189564.html)<br>
-&emsp;&emsp;&emsp;:closed_book: [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)<br>
-&emsp;&emsp;&emsp;:closed_book: [Head First Data Analysis](https://learning.oreilly.com/library/view/head-first-data/9780596806224/)<br>
-&emsp;&emsp;&emsp;:closed_book: [Think Stats: Exploratory Data Analysis (Second Edition)](https://b-ok.africa/book/2737548/7659e9)<br>
-&emsp;&emsp;&emsp;:closed_book: [Think Bayes: Bayesian Statistics in Python](https://b-ok.africa/book/2737587/ab97d5)<br>
-&emsp;&emsp;&emsp;:closed_book: [Web Scraping with Python](https://b-ok.africa/book/3515980/5d50aa)<br>
-&emsp;&emsp;&emsp;:closed_book: [Feature Engineering for Machine Learning](https://b-ok.cc/book/3583182/056a36)<br>
-
-&emsp;&emsp;&emsp;:closed_book: [Hands on ML 2nd edition book](https://drive.google.com/file/d/1tAoPyJfFOt6fzi2SFGJAJArPlIKWV5gd/view)<br>
-&emsp;&emsp;&emsp;:closed_book: []()<br>
-&emsp;&emsp;&emsp;:closed_book: []()<br>
-&emsp;&emsp;&emsp;:closed_book: []()<br>
-&emsp;&emsp;&emsp;:closed_book: [--->Practical Statistics for Data Scientists Book](https://eg1lib.org/book/5524607/1e8e36)<br>
-&emsp;&emsp;&emsp;:closed_book: [--->Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures](https://clauswilke.com/dataviz/)<br>
-&emsp;&emsp;&emsp;:closed_book: [--->Pro Git Official Book](https://git-scm.com/book/en/v2)<br>
-&emsp;&emsp;&emsp;:closed_book: [Time Series Analysis Book](https://www.oreilly.com/library/view/practical-time-series/9781492041641/?fbclid=IwAR20cq7hAdWf6voOd61u-pNzZCHvB0rZhT_BUoGTAXxPBhhi82p8BhxLEsI)<br>
-
+| Topics                              | Resources & Links                                                                                                             |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------|
+| **1. Deep Learning**|🎥[Deep learning specialization Andrew](https://bit.ly/3I1c396) <br> 🎥[Deep learning book](https://bit.ly/3I3lt49)<br>|
+|**2. Computer Vision**|🎥[Stanford playlist](https://www.youtube.com/playlist?list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ)<br>🎥[Stanford](https://stanford.io/3HZaJDJ) <br>|
+|**3. NLP**|🎥[NLP Stanford](https://stanford.io/3pUcw76) <br>🎥[CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/) <br>🎥[NLP Coursera specialization](https://bit.ly/3vXkU9M) <br>|
+|**4. Spark**|🎥[Spark (Udacity)](https://bit.ly/3sYKFUZ ) <br>|
+|**5. Data Warehouse**|🎥[Data Warehouse Concepts (Coursera)](https://www.coursera.org/learn/dwdesign) <br>|
+|**6. Feature Engineering**|📑[Tutorial](https://www.kaggle.com/learn/feature-engineering)<br>📑[Tutorial](https://www.kaggle.com/learn/feature-engineering)<br>|
+|**7. Inferential Statistics**|🎥[Specialization, 2nd & 3rd courses](https://www.coursera.org/specializations/statistics-with-python)<br>🎥[Coursera](https://www.coursera.org/learn/statistical-inferences)<br>🎥[Udacity](https://bit.ly/37a34FY)<br>|
+|**8. Model Deployment**|📑[Flask tutorial](https://towardsdatascience.com/deploying-a-deep-learning-model-using-flask-3ec166ef59fb)<br>🎥[TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment)<br>🎥[Deploy Models with TensorFlow Serving and Flask](https://www.coursera.org/projects/deploy-models-tensorflow-serving-flask)<br>🎥[How to Deploy a Machine Learning Model to Google Cloud - Daniel Bourke](https://www.youtube.com/watch?v=fw6NMQrYc6w)<br>**if you`re intersted in more deployment methods, search for (_FastAPI - Heroku - chitra_)<br>**|
+|**9. Probabilistic Graphical Models**|🎥[Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)<br>|
 
 
 
