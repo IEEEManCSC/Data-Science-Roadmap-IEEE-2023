@@ -1,0 +1,194 @@
+# Roadmap into weeks
+
+## It's the same roadmap, but divided into weeks with an average studying rate of 7 hours per week.
+
+### This roadmap is divided into 4 stages:
+>* Stage 1: you get a basic understanding of the prerequisites.
+>* Stage 2: learn preprocessing, Tableau, SQL and web scraping.
+>* Stage 3: dive into ML and Mathematics.
+>* Stage 4: where we learn DL, CV and NLP.
+
+### You should make a task after each week, and some projects after each stage.
+________________________________________
+<br>
+
+## Stage 1
+### Week 1 :
+>* [Python-Basics (Full Course)](https://www.coursera.org/learn/python-basics) <br>  
+>Task : [Notebook link]() <br> 
+
+
+### Week 2:
+>* [Python-Intermediate (Full course)](https://www.coursera.org/learn/python-functions-files-dictionaries) <br>  
+>Task : [Notebook link]() <br> 
+
+
+### Week 3:
+>* [Descriptive statistics (Full course)](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) <br>  
+> & <br>
+>* **optional** Search for (list comprehension - Try, except - assert) <br>  
+>Task : [Notebook link]() <br>
+
+### Week 4:
+>* [Python-OOP (1st week only)](https://www.coursera.org/learn/python-classes-inheritance) <br>
+> & <br>
+>* [Numpy (Full course)](https://app.datacamp.com/learn/courses/introduction-to-numpy) <br>  
+>Task : [Notebook link]() <br>
+
+
+### Week 5:
+>* [Pandas (Introduction)](https://www.youtube.com/playlist?list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F) <br>
+> & <br>
+>* [Pandas (videos "1→3")](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) <br>  
+>Task : [Notebook link]() <br> 
+
+>
+### Week 6:
+>* [Pandas (videos "3→9")](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) <br>  
+>Task : [Notebook link]() <br> 
+
+
+### Week 7:
+
+>* [Git](https://almdrasa.com/tracks/programming-foundations/courses/git-github/) <br> 
+> & <br>
+>* [Python-OOP (2nd & 3rd week)](https://www.coursera.org/learn/python-classes-inheritance) <br>  
+>Task : [Notebook link]() <br> 
+
+
+
+## Stage 2
+### Week 1:
+>* [Data Cleaning (DataCamp Course)](https://app.datacamp.com/learn/courses/cleaning-data-in-python) <br>
+> & <br>
+>* [Guide to Data Cleaning (Article)](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4) <br>  
+>Task : [Notebook link]() <br> 
+
+
+### Week 2:
+>* [Understanding Data Visualization (DataCamp Course)](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) <br>
+> & <br>
+>* [Seaborn-basics (DataCamp Course)](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-seaborn) <br>  
+>Task : [Notebook link]() <br> 
+
+### Week 3:
+>* [Seaborn-intermediate (DataCamp Course)](https://app.datacamp.com/learn/courses/intermediate-data-visualization-with-seaborn) <br>
+> & <br>
+>* [Matplotlib-basics (DataCamp Course)](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib) <br>  
+>Task: [Notebook link]()
+
+### Week 4:
+>* [Exploratory Data Analysis (DataCamp Course)](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) <br>
+> & <br>
+>* [Ask Questions (from google specialization)](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=google-data-analytics)<br>  
+>Task : [Notebook Link]()
+
+
+### Week 5:
+>* [Tableau (udacity)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 ) <br>  
+>Task : [Tableau Task]() <br>
+
+
+### Week 6:
+>* [Intro to DB](https://app.datacamp.com/learn/courses/introduction-to-relational-databases-in-sql) <br>
+> & <br>
+>* [Intro to SQL](https://app.datacamp.com/learn/courses/introduction-to-sql) <br>  
+>Task : [SQL Task]()
+
+
+### Week 7:
+>* [Intro to web scraping (Record)](https://drive.google.com/file/d/1kV0iewMJt0RHSYWAjJCaTNoD41wpfRXM/view?usp=sharing) <br> 
+> & <br>
+>* [Web scraping (DataCamp Course)](https://app.datacamp.com/learn/courses/web-scraping-with-python) <br>  
+>Task : [Scraping Task]()
+
+
+
+## Stage 3 (Machine Learning and Mathematics):
+### Week 1:
+>* [Inferential Statistics](https://learn.udacity.com/courses/ud201) <br>  
+>Task : [Link]()
+
+
+### Week 2:
+>* [Linear Algebra Course (week 1,2)](https://www.coursera.org/learn/linear-algebra-machine-learning) <br>
+> & <br>
+>* [Supervised Machine Learning Andrew (week 1)](https://www.coursera.org/learn/linear-algebra-machine-learning) <br>
+> & <br>
+>* [**optional** MIT Lectures](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/syllabus/) <br>  
+>Task : [Link]()
+
+
+### Week 3:
+>* [Linear Algebra Course (week 3,4)](https://www.coursera.org/learn/linear-algebra-machine-learning) <br>
+> & <br>
+>* [Supervised Machine Learning Andrew (week 2)](https://www.coursera.org/learn/linear-algebra-machine-learning) <br>
+> & <br>
+>* [**optional** Machine Learning (Dr Hamed Tizhoosh)](https://www.youtube.com/watch?v=tExPpuk-UQ8&list=PLvan4zSb2RaoRGHbSP15RYrUycboAmmLL&index=2) <br>  
+>Task : [Link]()
+
+
+### Week 4:
+>* [Linear Algebra Course (week 5)](https://www.coursera.org/learn/linear-algebra-machine-learning) <br>
+> & <br>
+>* [Supervised Machine Learning Andrew (week 3)](https://www.coursera.org/learn/linear-algebra-machine-learning) <br>  
+>Task : [Link]()
+
+
+### Week 5:
+>* [Calculus Course (week 1,2,3)](https://www.coursera.org/learn/multivariate-calculus-machine-learning) <br>
+> & <br>
+>* [Advanced Learning Algorithms Andrew (week 1)](https://www.coursera.org/learn/advanced-learning-algorithms) <br>  
+>Task : [Link]()
+
+
+### Week 6:
+>* [Calculus Course (week 4,5)](https://www.coursera.org/learn/multivariate-calculus-machine-learning) <br>
+> & <br>
+>* [Advanced Learning Algorithms Andrew (week 2)](https://www.coursera.org/learn/advanced-learning-algorithms) <br>  
+>Task : [Link]()
+
+
+### Week 7:
+>* [Calculus Course (week 6)](https://www.coursera.org/learn/multivariate-calculus-machine-learning) <br>
+> & <br>
+>* [Advanced Learning Algorithms Andrew (week 3,4)](https://www.coursera.org/learn/advanced-learning-algorithms) <br>  
+>Task : [Link]()
+
+________________________
+
+## 📌 Note:
+>* In the following section, we use `Hands On Machine Learning` which is a paid book so we won't provide it as PDF (It is not Legal). But we provide a link illustrating how to officially read the book from O'REILLY website. [(See This)](https://www.awesomescreenshot.com/video/16346202?key=891302ebf42290c51796f8da0c2ae251&fbclid=IwAR0i5BVzSrIWXsbkfO7o0yykkQweSLaYi5M17YiCQ7_UJMMfPIEpFNt6Wb4)
+>* Also, the first four chapters are recorded in Arabic by Eng/ Mahmoud Hegab. It is recommended source to guide you with the book.[(See This)]( https://www.youtube.com/playlist?list=PL1YWN9bMt3ODJnCNW1WqJ46tXVMCgdwTI)
+
+### Week 8:
+>* [Hands On Machine Leaarning Book (Chapter 1,2)]() <br>
+> & <br>
+>* [**optional** Hegab playlist](https://www.youtube.com/playlist?list=PL1YWN9bMt3ODJnCNW1WqJ46tXVMCgdwTI) <br>
+> & <br>
+>* [Unsupervised Learning Andrew (week 1)](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) <br>  
+>Task : [Link]()
+
+
+### Week 9:
+>* [Hands On Machine Leaarning Book (Chapter 3,4)]() <br>
+> & <br>
+>* [**optional** Hegab playlist](https://www.youtube.com/playlist?list=PL1YWN9bMt3ODJnCNW1WqJ46tXVMCgdwTI) <br>
+> & <br>
+>* [Unsupervised Learning Andrew (week 2)](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) <br>  
+>Task : [Link]()
+
+
+### Week 10:
+>* [Hands On Machine Leaarning Book (Chapter 5,6)]() <br>
+> & <br>
+>* [**optional** Hegab playlist](https://www.youtube.com/playlist?list=PL1YWN9bMt3ODJnCNW1WqJ46tXVMCgdwTI) <br>
+> & <br>
+>* [Unsupervised Learning Andrew (week 3)](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) <br>  
+>Task : [Link]()
+
+
+### Week 11:
+>* [Hands On Machine Leaarning Book (Chapter 7,8,9)]() <br>   
+>Task : [Link]()
+
