@@ -15,37 +15,35 @@
   
  ## Stage 1 
  ### Week 1 : 
-[Python-Basics (Full Course)](https://www.coursera.org/learn/python-basics) <br>
-Task 1 : [Notebook link](https://colab.research.google.com/drive/1N_sxUfzFwAEQmqVuOxMfaRGxFuw9DnPm?usp=sharing) <br> 
+[Python-Basics (Full Course)](https://www.coursera.org/learn/python-basics) <br> 
 
  ### Week 2: 
 [Intermediate Python (Full course)](https://www.coursera.org/learn/python-functions-files-dictionaries) <br>
-Task 2 p1: [Notebook link](https://colab.research.google.com/drive/1JCuKVSZPRKMOG4xzD36Oo0oSHq9628w8?fbclid=IwAR2QiEDl6vzgsERONTARCt2GWgDb-apTwZOjrcJRTOIVMrmT4dfiMj-KyXo) <br> 
-Task 2 p2: [Notebook link](https://colab.research.google.com/drive/1tA5Ryyoj1TKyNO2_NoH2M_MB9oNAuTob?usp=sharing) <br> 
+
 
  ### Week 3:
  [Python-OOP (1st week only)](https://www.coursera.org/learn/python-classes-inheritance) <br>
  [Descriptive stats](https://www.youtube.com/watch?v=NyCqaxLW3p8) <br> 
  [Stats summary](https://drive.google.com/file/d/1C4RMwG5HphNAHgYjzif7N_7Eb_w_IDAn/view?usp=sharing) <br> 
- Task 3  : [Notebook link](https://colab.research.google.com/drive/1bAS39rOstc4bf3vdaTvD8PEjlHyIB8wp?usp=sharing#scrollTo=MwzekJmUstWR) <br> 
+ 
  
  
  ### Week 4: 
  [Python-OOP (2nd week only)](https://www.coursera.org/learn/python-classes-inheritance) <br>
  [Numpy (Full course)](https://app.datacamp.com/learn/courses/introduction-to-numpy) <br>
  [Numpy DOC](https://numpy.org/learn/) <br>
- Task 4 : [Notebook link](https://colab.research.google.com/drive/1jGpdatYPiQv5VLPtQutRPtGsi6Bpm3U4?usp=sharing) <br>
+ 
  
  ### Week 5: 
  [Finish Python-OOP](https://www.coursera.org/learn/python-classes-inheritance) <br>
  4 videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br> 
- Task 5 : [Notebook link](https://colab.research.google.com/drive/1w_sO_9GcQbDsnbHl85XvUYwNOVA0vsE5?usp=sharing) <br> 
+ 
  
   
  ### Week 6:
  5 → 9 videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br>
  [Git (session)](https://drive.google.com/drive/folders/14qy8O3XsKmaSGUfd5jGyFFoAcqcSCxoZ?usp=sharing) <br> 
- Task 6 : [Link](https://drive.google.com/drive/folders/1Nxi3h7cxIFDJ1Zr8LajnHYDA2cuLDAK2?usp=sharing) <br> 
+ 
  
  ### Week 7:
  [Cleaning (data camp)](https://app.datacamp.com/learn/courses/cleaning-data-in-python) <br> 
@@ -57,46 +55,49 @@ Task 2 p2: [Notebook link](https://colab.research.google.com/drive/1tA5Ryyoj1TKy
  [Understanding Data Visualization (DataCamp Course)](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) <br>
  
  ## Stage 2 
- ### Week 7:
- [Ask Questions (from Google specialization)](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=google-data-analytics) <br>
+ ### Week 9:
  [Visualizing (data camp Matplotlib)](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib) <br> 
  [Matplotlib Tutorial](https://matplotlib.org/stable/tutorials/index.html) <br> 
- Task 7 : [Link](https://docs.google.com/document/d/1bg3uHz1BGwuj_LuBr_V9dxJAviMapITidSvjgswiAbw/edit?usp=sharing)
+ 
 
- ### Week 8: 
+ ### Week 10: 
  [Visualizing Intro to seaborn (data camp)](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-seaborn ) <br>
  [Intermediate in seaborn(data camp)](https://app.datacamp.com/learn/courses/intermediate-data-visualization-with-seaborn ) <br> 
- Task 8: Investigate the following [Dataset](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
+ 
 
   
- ### Week 9: 
- [EDA (data camp)](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) <br> 
- [Notebook](https://www.kaggle.com/code/startupsci/titanic-data-science-solutions/notebook) <br>
+ ### Week 11: 
+ [Ask Questions (from Google specialization)](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=google-data-analytics) <br>
+ 
  
   
- ### Week 10:
+ ### Week 12:
+ [EDA (data camp)](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) <br> 
+ 
+ 
+ ### Week 13: 
  Finish [Last Two Lesson OF Tableau (udacity)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 ) <br> 
  [Tableau and visualizing (from Google specialization)](https://www.coursera.org/learn/visualize-data?specialization=google-data-analytics) <br> 
- Task 10 : [Tableau Task](https://docs.google.com/document/d/1TamjhCdFRgyPi6ZRiYFGRs5KyECbcN6a_vpimEK-aP8/edit?usp=sharing) <br> 
-
  
- ### Week 11: 
+
+ ### Week 14: 
  [Intro to DB](https://app.datacamp.com/learn/courses/introduction-to-relational-databases-in-sql) <br> 
  [Intro to SQL](https://app.datacamp.com/learn/courses/introduction-to-sql) <br> 
  [Notebook](https://www.kaggle.com/code/dimarudov/data-analysis-using-sql) <br>
- Task 11 : [SQL Task](https://docs.google.com/document/d/17i9YNOBgyrKJ8cNAA43zDMcUJ7yj3xwrImcZ-SjoHVY/edit?usp=sharing)
+ 
 
- ### Week 12: 
+ ### Week 15: 
  [Intro to web scraping](https://drive.google.com/file/d/1kV0iewMJt0RHSYWAjJCaTNoD41wpfRXM/view?usp=sharing) <br> 
  [Web scraping](https://app.datacamp.com/learn/courses/web-scraping-with-python) <br>  
- Task 12 : [Scraping Task](https://docs.google.com/document/d/1TmhlH5gOV-glWIMgq6P51sPr3GezLnpaiEqDlptsVDE/edit?usp=sharing) <br> 
- 
   
+ 
+### Week 16: 
+
   
  ## Stage 3 
  ### Week 13 : 
  [Inferential Stats](https://classroom.udacity.com/courses/ud201 ) <br>
- Task 13 : [Notebook Link](https://colab.research.google.com/drive/1MbniueZJ4ixefVUNKtX19JZo2FDDj-jQ?usp=sharing)
+ 
  
 
  ### Week 14 : 
