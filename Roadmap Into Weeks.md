@@ -33,17 +33,13 @@
  [Numpy (Full course)](https://app.datacamp.com/learn/courses/introduction-to-numpy) <br>
  [Numpy DOC](https://numpy.org/learn/) <br>
  
- 
  ### Week 5: 
  [Finish Python-OOP](https://www.coursera.org/learn/python-classes-inheritance) <br>
  4 videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br> 
- 
- 
   
  ### Week 6:
  5 → 9 videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br>
  [Git (session)](https://drive.google.com/drive/folders/14qy8O3XsKmaSGUfd5jGyFFoAcqcSCxoZ?usp=sharing) <br> 
- 
  
  ### Week 7:
  [Cleaning (data camp)](https://app.datacamp.com/learn/courses/cleaning-data-in-python) <br> 
@@ -68,86 +64,94 @@
   
  ### Week 11: 
  [Ask Questions (from Google specialization)](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=google-data-analytics) <br>
- 
- 
   
  ### Week 12:
  [EDA (data camp)](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) <br> 
- 
  
  ### Week 13: 
  Finish [Last Two Lesson OF Tableau (udacity)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 ) <br> 
  [Tableau and visualizing (from Google specialization)](https://www.coursera.org/learn/visualize-data?specialization=google-data-analytics) <br> 
  
-
  ### Week 14: 
  [Intro to DB](https://app.datacamp.com/learn/courses/introduction-to-relational-databases-in-sql) <br> 
  [Intro to SQL](https://app.datacamp.com/learn/courses/introduction-to-sql) <br> 
  [Notebook](https://www.kaggle.com/code/dimarudov/data-analysis-using-sql) <br>
  
-
  ### Week 15: 
  [Intro to web scraping](https://drive.google.com/file/d/1kV0iewMJt0RHSYWAjJCaTNoD41wpfRXM/view?usp=sharing) <br> 
  [Web scraping](https://app.datacamp.com/learn/courses/web-scraping-with-python) <br>  
 
-  
  ## Stage 3 
- ### Week 13 : 
- [Inferential Stats](https://classroom.udacity.com/courses/ud201 ) <br>
- 
- 
-
- ### Week 14 : 
- [Intro for Machine udacity Course](https://www.coursera.org/learn/machine-learning-with-python?specialization=ai-engineer)<br> 
- 
- [OR](https://www.coursera.org/learn/machine-learning-with-python?specialization=ai-engineer&fbclid=IwAR35JlCKXk3OdCYVRFnK_pRXmiko5CHO7lKk5rLld8M3A9McbtIVPDn6AFs)<br>
-  
-  
- ### Week 15 : 
- First 2 weeks in [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning?specialization=mathematics-machine-learning) <br> 
- First 2 weeks in [Supervised Machine Learning](https://www.coursera.org/learn/machine-learning) <br> 
-
  ### Week 16 : 
- Finish [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning?specialization=mathematics-machine-learning) <br>
- Finish [Supervised Machine Learning](https://www.coursera.org/learn/machine-learning) <br> 
-  
-  
- ### Week 17 : 
- First 2 weeks in [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning) <br>
- First 2 weeks in [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br> 
+ [Inferential Stats](https://classroom.udacity.com/courses/ud201 ) <br>
 
+ ### Week 17 : 
+ [Intro for Machine udacity Course](https://www.coursera.org/learn/machine-learning-with-python?specialization=ai-engineer)<br> 
+ OR <br>
+ [Machine Learning With Python](https://www.coursera.org/learn/machine-learning-with-python?specialization=ai-engineer&fbclid=IwAR35JlCKXk3OdCYVRFnK_pRXmiko5CHO7lKk5rLld8M3A9McbtIVPDn6AFs)<br>
   
  ### Week 18 : 
- Finish [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning) <br>
- Finish [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br> 
+ [Linear Algebra Course (week 1,2)](https://www.coursera.org/learn/linear-algebra-machine-learning) <br>
+ [Supervised Machine Learning Andrew (week 1)](https://www.coursera.org/learn/machine-learning) <br>
+ [**optional** MIT Lectures](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/syllabus/) <br>
+
+ ### Week 19 : 
+ [Linear Algebra Course (week 3,4)](https://www.coursera.org/learn/linear-algebra-machine-learning) <br>
+ [Supervised Machine Learning Andrew (week 2)](https://www.coursera.org/learn/machine-learning) <br>
+ [**optional** Machine Learning (Dr Hamed Tizhoosh)](https://www.youtube.com/watch?v=tExPpuk-UQ8&list=PLvan4zSb2RaoRGHbSP15RYrUycboAmmLL&index=2) <br> 
+  
+ ### Week 20 : 
+ [Linear Algebra Course (week 5)](https://www.coursera.org/learn/linear-algebra-machine-learning) <br>
+ [Supervised Machine Learning Andrew (week 3)](https://www.coursera.org/learn/machine-learning) <br>  
+ 
+ ### Week 21 : 
+ [Calculus Course (week 1,2,3)](https://www.coursera.org/learn/multivariate-calculus-machine-learning) <br>
+ [Advanced Learning Algorithms Andrew (week 1)](https://www.coursera.org/learn/advanced-learning-algorithms) <br>  
+ 
+ ### Week 22 :
+ [Calculus Course (week 4,5)](https://www.coursera.org/learn/multivariate-calculus-machine-learning) <br>
+ [Advanced Learning Algorithms Andrew (week 2)](https://www.coursera.org/learn/advanced-learning-algorithms) <br>  
+ 
+ ### Week 23 :
+ [Calculus Course (week 6)](https://www.coursera.org/learn/multivariate-calculus-machine-learning) <br>
+ [Advanced Learning Algorithms Andrew (week 3,4)](https://www.coursera.org/learn/advanced-learning-algorithms) <br>  
   
  ## Stage 4
- ### Week 19 : 
- [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) <br>
+ ### Week 24 : 
+ [First 2 Weeks Neural Networks course](https://www.coursera.org/learn/neural-networks-deep-learning) <br>
 
-### Week 20 :
-First 2 chapters in [Hands on ML book](https://drive.google.com/file/d/1tAoPyJfFOt6fzi2SFGJAJArPlIKWV5gd/view?usp=sharing) <br>
+ ### Week 25 :
+ [Finsh Neural Networks course](https://www.coursera.org/learn/neural-networks-deep-learning) <br>
 
+ ### Week 26 :
+ [Structuring Machine Learning Projects Course](https://www.coursera.org/learn/machine-learning-projects) <br>
 
-### Week 21 :
-Chapters 3,4 in [Hands on ML book](https://drive.google.com/file/d/1tAoPyJfFOt6fzi2SFGJAJArPlIKWV5gd/view?usp=sharing) <br>
+### Week 27 :
+Chapter 1,2,3 Deep Learning with python <br>
 
+### Week 28 :
+Chapter 4,5 Deep Learning with Python <br>
 
-### Week 22 :
-Chapters 5,6 in [Hands on ML book](https://drive.google.com/file/d/1tAoPyJfFOt6fzi2SFGJAJArPlIKWV5gd/view?usp=sharing) <br>
+### Week 29 :
+Chapter 6,7 Deep Learning with Python <br>
 
+### Week 30 :
+[Convolutional Neural Networks Week 3, Week 4](https://www.coursera.org/learn/convolutional-neural-networks) <br>
 
-### Week 23 :
-Chapters 7,8 in [Hands on ML book](https://drive.google.com/file/d/1tAoPyJfFOt6fzi2SFGJAJArPlIKWV5gd/view?usp=sharing) <br>
+### Week 31 :
+Chapter 8,9 Deep Learning with Python <br>
 
+### Week 32 :
+[Sequence Models Week 1, Week 2](https://www.coursera.org/learn/nlp-sequence-models) <br>
 
-### Week 24 :
-Chapter 9 in [Hands on ML book](https://drive.google.com/file/d/1tAoPyJfFOt6fzi2SFGJAJArPlIKWV5gd/view?usp=sharing) <br>
-First part in [Probability](https://www.khanacademy.org/math/statistics-probability/probability-library) <br>
+### Week 33 :
+[Sequence Models Week 3, Week 4](https://www.coursera.org/learn/nlp-sequence-models) <br>
 
-### Week 25 :
-Finish [Probability](https://www.khanacademy.org/math/statistics-probability/probability-library) <br>
+### Week 34 :
+Chapter 10,11 Deep Learning with Python <br>
 
-  
+### Week 35:
+Chapter 12,13 Deep Learning with Python <br>
+
  > More to be added...
 
