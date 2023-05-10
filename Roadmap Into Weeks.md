@@ -89,9 +89,6 @@
  ### Week 15: 
  [Intro to web scraping](https://drive.google.com/file/d/1kV0iewMJt0RHSYWAjJCaTNoD41wpfRXM/view?usp=sharing) <br> 
  [Web scraping](https://app.datacamp.com/learn/courses/web-scraping-with-python) <br>  
-  
- 
-### Week 16: 
 
   
  ## Stage 3 
