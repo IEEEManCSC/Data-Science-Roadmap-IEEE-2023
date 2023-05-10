@@ -46,7 +46,7 @@
 [<h2>**Google Colab**</h2>](https://colab.research.google.com/notebooks/intro.ipynb)Google Colab is like a Jupyter Notebook but in the cloud. You don’t need to install anything locally. All the important libraries are already installed. For example NumPy, Pandas, Matplotlib, and Sci-kit Learn <br />
 
 [<h2>**PyCharm**</h2>](https://www.jetbrains.com/pycharm/)PyCharm is another excellent IDE that enables you to integrate with libraries such as NumPy and Matplotlib, allowing you to work with array viewers and interactive plots. 
- * [JetBrains student license](https://www.youtube.com/watch?v=QPESX-VBnEU) can let you freely install thepaid professionall version of Pycharm for educational purposes only.
+ * [JetBrains student license](https://www.youtube.com/watch?v=QPESX-VBnEU) can let you freely install the paid professional version of Pycharm for educational purposes only.
  * [A Guide to install and use Pycharm](https://www.youtube.com/watch?v=NJXwP7o5TTM)
  * [Running Jupyter Notebook from Pycharm](https://www.youtube.com/watch?v=yr1M1H-GLR0)<br />
   
@@ -70,6 +70,7 @@ Learning Python will require time to reiterate several times to understand a con
 | &emsp;&emsp;&emsp;**1.Intro To Python✨**                      | 🎥[Udacity](https://www.udacity.com/course/introduction-to-python--ud1110)<br> 🎥[Corey Schafer](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) <br> 🎥[Arabic Course](https://youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ) <br>[📑Pdf ](https://drive.google.com/file/d/1xhO5X5iGJeottX2dc2gNejQll0sTBgHz/view?usp=drivesdk)               |
 | Intermediate Python                 | 🎥[Corey Schafer](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) <br>  🎥[Python Functions, Files, and Dictionaries](https://www.coursera.org/learn/python-functions-files-dictionaries)                    |
 | Advanced Python                     | 🎥[Durga Sir](https://www.youtube.com/watch?v=es457q7n3P8&list=PLd3UqWTnYXOkzPunQOObl4m_7i6aOIoQD)                           |
+| OOP with Python                     | 🎥[Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance)                           |
 | Intro to cs with python | 🎥[MIT](https://bit.ly/3hV3rqj)                    |
 | Data Structures and Algorithms      | 📑[Data Structures and Algorithms BOOK](http://xpzhang.me/teach/DS19_Fall/book.pdf)<br> 🎥[Introduction to Algorithms(MIT)](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)  |
 | Regular Expression                     | 📑[Tutorial](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)                     |
