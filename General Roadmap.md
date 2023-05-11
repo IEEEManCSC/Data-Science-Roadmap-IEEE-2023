@@ -22,11 +22,11 @@
 
 #### :three:	:Notice that any roadmap is not sacred, you may find some courses better than the suggested ones from your perspective and that's completely okay, so Choose the courses that suit you but you should go through all the topics.<br>
 
-####:four::To get a better result, it is preferable to read a pdf or a book from those below in parallel with the course you choose.
+#### :four::To get a better result, it is preferable to read a pdf or a book from those below in parallel with the course you choose.
 
-####:five::Don’t chase certifications.
-####:six::Don’t rush for ML without having a good background in programming & maths.
-####:seven::At the end of every level apply all that you've learned on some projects.
+#### :five::Don’t chase certifications.
+#### :six::Don’t rush for ML without having a good background in programming & maths.
+#### :seven::At the end of every level apply all that you've learned on some projects.
 
 
 # So let’s start our journey with preparing your workspace 🚀
