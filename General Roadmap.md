@@ -18,15 +18,15 @@
 ## ▶ Before starting you should know these tips :
 #### :one:	: **If you need to climb stairs, you must tread the first stair.**.....So the “Computer science fundamentals” are the first stair in CS stairs, It will help you to understand how the computer works, how to deal with data, how to deal with code, and many other things you should know to go freely on your career. Whatever the CS technology you choose to learn you need these fundamentals.<br>Many people who decided to start directly learning one of CS technology suffer from a Lack of some skills and information and they waste their time to go back and learn what they need and the process is repeated continuously.<br>
 
-#### :two:	: Here you have the main topics and for each one, there are some suggested courses that you should take one or more of them..<br>
+#### :two:	  :Here you have the main topics and for each one, there are some suggested courses that you should take one or more of them..<br>
 
 #### :three:	:Notice that any roadmap is not sacred, you may find some courses better than the suggested ones from your perspective and that's completely okay, so Choose the courses that suit you but you should go through all the topics.<br>
 
-#### :four::To get a better result, it is preferable to read a pdf or a book from those below in parallel with the course you choose.
+#### :four:  :To get a better result, it is preferable to read a pdf or a book from those below in parallel with the course you choose.
 
-#### :five::Don’t chase certifications.
-#### :six::Don’t rush for ML without having a good background in programming & maths.
-#### :seven::At the end of every level apply all that you've learned on some projects.
+#### :five:  :Don’t chase certifications.
+#### :six:   :Don’t rush for ML without having a good background in programming & maths.
+#### :seven: :At the end of every level apply all that you've learned on some projects.
 
 
 # So let’s start our journey with preparing your workspace 🚀
