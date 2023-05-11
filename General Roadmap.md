@@ -22,11 +22,11 @@
 
 #### :three:	:Notice that any roadmap is not sacred, you may find some courses better than the suggested ones from your perspective and that's completely okay, so Choose the courses that suit you but you should go through all the topics.<br>
 
-#### :four:	 :To get a better result, it is preferable to read a pdf or a book from those below in parallel with the course you choose..
+####:four::To get a better result, it is preferable to read a pdf or a book from those below in parallel with the course you choose.
 
-#### :five:  :Don’t chase certifications.
-#### :six:   :Don’t rush for ML without having a good background in programming & maths.
-#### :seven: :At the end of every level apply all that you've learned on some projects.
+####:five::Don’t chase certifications.
+####:six::Don’t rush for ML without having a good background in programming & maths.
+####:seven::At the end of every level apply all that you've learned on some projects.
 
 
 # So let’s start our journey with preparing your workspace 🚀
@@ -43,7 +43,7 @@
 
 
 
-[<h2>**Google Colab**</h2>](https://colab.research.google.com/notebooks/intro.ipynb)Google Colab is like a Jupyter Notebook but in the cloud. You don’t need to install anything locally. All the important libraries are already installed. For example NumPy, Pandas, Matplotlib, and Sci-kit Learn <br />
+[<h2>**Google Colab**</h2>](https://colab.research.google.com/notebooks/intro.ipynb)Google Colab is like a Jupyter Notebook but in the cloud. You don’t need to install anything locally. All the important libraries are already installed. For example NumPy, Pandas, matplotlib, and Sci-kit Learn <br />
 
 [<h2>**PyCharm**</h2>](https://www.jetbrains.com/pycharm/)PyCharm is another excellent IDE that enables you to integrate with libraries such as NumPy and Matplotlib, allowing you to work with array viewers and interactive plots. 
  * [JetBrains student license](https://www.youtube.com/watch?v=QPESX-VBnEU) can let you freely install the paid professional version of Pycharm for educational purposes only.
@@ -88,8 +88,8 @@ Learning Python will require time to reiterate several times to understand a con
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------|
 | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**1.Git**|🎥[Udacity course](https://classroom.udacity.com/courses/ud123)<br>📑[Git Tutorial for Absolute Beginners from Zero to Hero](https://youtube.com/playlist?list=PLJGDHERh23x_4MDp0m4Arswm5VErr3tbl)<br>🎥[Git (session)](https://drive.google.com/drive/folders/14qy8O3XsKmaSGUfd5jGyFFoAcqcSCxoZ?usp=sharing) <br>🎥[Arabic Youtube](https://www.youtube.com/watch?v=Q6G-J54vgKc)<br>|
 |&emsp;&emsp;**2. Web Scraping & APIs**|🎥[Intro to web scraping (data camp)](https://bit.ly/3CuNyjE)<br>🎥[Intermediate Importing Data (data camp)](https://bit.ly/37kqrgi)<br>📑[Web Scraping with Python Using Beautiful Soup](https://www.dataquest.io/blog/web-scraping-tutorial-python/)<br>📑[Getting Started with APIs](https://www.dataquest.io/blog/python-api-tutorial/)<br>📑[Medium](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fhow-to-pull-data-from-an-api-using-python-requests-edcc8d6441b1)<br>📑[Rapidapi](https://rapidapi.com/blog/how-to-use-an-api-with-python/)<br>|
-|&emsp;&emsp;&emsp;&emsp;**3.Time-Series**|📑[Tutorial(Prophet)](https://facebook.github.io/prophet/docs/quick_start.html)<br>🎥[Time Series with Python(data camp)](https://learn.datacamp.com/skill-tracks/time-series-with-python)<br>🎥[Arabic Course(Hesham Asem)1](https://www.youtube.com/watch?v=TvhaHPq6xLU&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=1)<br>|
-| &emsp;**4. Math for Machine Learning**|🎥[Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)<br>🎥[Mathematics for Machine Learning](https://www.youtube.com/watch?v=vLJcduC4lBM&list=PLcQCwsZDEzFmlSc6levE3UV9rZ8yY-D_7)<br>🎥[Probability (Khanacademy)](https://bit.ly/379gylk) <br> 🎥[Probability MIT playlist]( https://bit.ly/3MFxaBC) <br> 🎥[Linear algebra for ML Coursera specialization]( https://bit.ly/3pToX32) <br>🎥[ Multivariate Calculus ](https://www.coursera.org/learn/multivariate-calculus-machine-learning?fbclid=IwAR243aoz0jxs4iUn539pnjSQliXtr7Y5QAsvgeRTietZT_tkyoRU3b6Sq1o)<br> 
+|&emsp;&emsp;&emsp;&emsp;&emsp;**3.Time-Series**|📑[Tutorial(Prophet)](https://facebook.github.io/prophet/docs/quick_start.html)<br>🎥[Time Series with Python(data camp)](https://learn.datacamp.com/skill-tracks/time-series-with-python)<br>🎥[Arabic Course(Hesham Asem)1](https://www.youtube.com/watch?v=TvhaHPq6xLU&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=1)<br>|
+| &emsp;**4. Math for Machine Learning**|🎥[Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)<br>🎥[Mathematics for Machine Learning](https://www.youtube.com/watch?v=vLJcduC4lBM&list=PLcQCwsZDEzFmlSc6levE3UV9rZ8yY-D_7)<br>🎥[Probability (Khanacademy)](https://bit.ly/379gylk) <br> 🎥[Probability MIT playlist]( https://bit.ly/3MFxaBC) <br> 🎥[Linear algebra for ML Coursera specialization]( https://bit.ly/3pToX32) <br>🎥[ Multivariate Calculus ](https://www.coursera.org/learn/multivariate-calculus-machine-learning?fbclid=IwAR243aoz0jxs4iUn539pnjSQliXtr7Y5QAsvgeRTietZT_tkyoRU3b6Sq1o)<br> |
 | &emsp;&emsp;&emsp;**5. Machine Learning**|🎥[Machine learning andrew](https://bit.ly/3u5zfhV) <br>🎥[Machine learning Udacity]( https://bit.ly/3J2j7Uu) <br>🎥[Machine learning IBM](https://www.coursera.org/learn/machine-learning-with-python?specialization=ai-engineer&fbclid=IwAR35JlCKXk3OdCYVRFnK_pRXmiko5CHO7lKk5rLld8M3A9McbtIVPDn6AFs)<br>📕[Hands on ML 2nd edition book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975)<br>📕[Feature engineering book](https://bit.ly/3vWNubo)<br>|
 |&emsp;&emsp;**6. Feature Engineering**|📑[Tutorial](https://www.kaggle.com/learn/feature-engineering)<br>📑[Tutorial](https://www.kaggle.com/learn/feature-engineering)<br>|
 
